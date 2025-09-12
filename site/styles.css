@@ -1,0 +1,16 @@
+#result h2 {
+  color: #779dd6; 
+  margin-bottom: 20px;
+}
+
+#result ul {
+  list-style: none;
+  padding: 0;
+}
+
+#result li {
+  background: #e9ecef;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 6px;
+}

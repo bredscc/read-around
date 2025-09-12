@@ -1,0 +1,846 @@
+{
+  "Aruba": {
+    "books": []
+  },
+  "Afghanistan": {
+    "books": [
+    "Woman Among Warlords",
+    "Earth and Ashes",
+    "A Bed of Red Flowers",
+    "Dancing in the Mosque",
+    "Opium Nation",
+    "A Fort of Nine Towers",
+    "The Opium Prince"
+    ]
+  },
+  "Angola": {
+    "books": [
+      "My Father's Wives",
+      "Creole",
+      "The Return od The Water Spirit",
+      "Good Morning Comrades",
+      "The Whistler"
+    ]
+  },
+  "Anguilla": {
+    "books": []
+  },
+  "Åland Islands": {
+    "books": []
+  },
+  "Albania": {
+    "books": []
+  },
+  "Andorra": {
+    "books": []
+  },
+  "United Arab Emirates": {
+    "books": []
+  },
+  "Argentina": {
+    "books": [
+      "Fictions",
+      "Hopscotch",
+      "How I Became a Nun",
+      "Fever Dream",
+      "Opendoor"
+    ]
+  },
+  "Armenia": {
+    "books": [
+      "Bringing Ararat",
+      "Three Apples Fell From The Sky",
+      "The Road from Home",
+      "The Gardens of Silihdar",
+      "The Sandcastle Girls"
+    ]
+  },
+  "American Samoa": {
+    "books": []
+  },
+  "Antarctica": {
+    "books": []
+  },
+  "French Southern Territories": {
+    "books": []
+  },
+  "Antigua and Barbuda": {
+    "books": [
+      "Lucy",
+      "Annie John",
+      "Unburnable",
+      "Considering Venus",
+      "Ladies of the night"
+    ]
+  },
+  "Australia": {
+    "books": [
+      "Loudstreet",
+      "The Children's Bach",
+      "The book Thief",
+      "The Boat",
+      "The white Earth"
+    ]
+  },
+  "Austria": {
+    "books": [
+      "The Man Without Qualities",
+      "The Piano Teacher",
+      "Letters to a Young Poet",
+      "Venus in Furs",
+      "A Whole Life"
+    ]
+  },
+  "Azerbaijan": {
+    "books": []
+  },
+  "Burundi": {
+    "books": []
+  },
+  "Belgium": {
+    "books": []
+  },
+  "Benin": {
+    "books": []
+  },
+  "Bonaire, Sint Eustatius and Saba": {
+    "books": []
+  },
+  "Burkina Faso": {
+    "books": []
+  },
+  "Bangladesh": {
+    "books": []
+  },
+  "Bulgaria": {
+    "books": [
+      "Bai Ganyo",
+      "Natural Novel",
+      "Street Without a Name",
+      "Is There Anybody to Love You?",
+      "Time of Parting"
+    ]
+  },
+  "Bahrain": {
+    "books": []
+  },
+  "Bahamas": {
+    "books": []
+  },
+  "Bosnia and Herzegovina": {
+    "books": [
+      "Sarajevo Marlboro",
+      "The Bridge on the Drina",
+      "Quiet Flows The Una",
+      "Nowhere Man",
+      "The World And All That It Holds"
+    ]
+  },
+  "Saint Barthélemy": {
+    "books": []
+  },
+  "Belarus": {
+    "books": []
+  },
+  "Belize": {
+    "books": []
+  },
+  "Bermuda": {
+    "books": []
+  },
+  "Bolivia": {
+    "books": []
+  },
+  "Brazil": {
+    "books": []
+  },
+  "Barbados": {
+    "books": []
+  },
+  "Brunei Darussalam": {
+    "books": []
+  },
+  "Bhutan": {
+    "books": []
+  },
+  "Bouvet Island": {
+    "books": []
+  },
+  "Botswana": {
+    "books": []
+  },
+  "Central African Republic": {
+    "books": []
+  },
+  "Canada": {
+    "books": []
+  },
+  "Cocos (Keeling) Islands": {
+    "books": []
+  },
+  "Switzerland": {
+    "books": []
+  },
+  "Chile": {
+    "books": []
+  },
+  "China": {
+    "books": []
+  },
+  "Côte d'Ivoire": {
+    "books": []
+  },
+  "Cameroon": {
+    "books": []
+  },
+  "Congo, The Democratic Republic of the": {
+    "books": []
+  },
+  "Congo": {
+    "books": []
+  },
+  "Cook Islands": {
+    "books": []
+  },
+  "Colombia": {
+    "books": []
+  },
+  "Comoros": {
+    "books": []
+  },
+  "Cabo Verde": {
+    "books": []
+  },
+  "Costa Rica": {
+    "books": []
+  },
+  "Cuba": {
+    "books": []
+  },
+  "Curaçao": {
+    "books": []
+  },
+  "Christmas Island": {
+    "books": []
+  },
+  "Cayman Islands": {
+    "books": []
+  },
+  "Cyprus": {
+    "books": []
+  },
+  "Czechia": {
+    "books": []
+  },
+  "Germany": {
+    "books": []
+  },
+  "Djibouti": {
+    "books": []
+  },
+  "Dominica": {
+    "books": []
+  },
+  "Denmark": {
+    "books": []
+  },
+  "Dominican Republic": {
+    "books": []
+  },
+  "Algeria": {
+    "books": []
+  },
+  "Ecuador": {
+    "books": []
+  },
+  "Egypt": {
+    "books": []
+  },
+  "Eritrea": {
+    "books": []
+  },
+  "Western Sahara": {
+    "books": []
+  },
+  "Spain": {
+    "books": [
+      "La Regenta",
+      "A Heart So White",
+      "Platero",
+      "Celestina Or The Tragic-Comedy Of Calisto And Melibea",
+      "Five Hours With Mario"
+    ]
+
+  },
+  "Estonia": {
+    "books": []
+  },
+  "Ethiopia": {
+    "books": [
+      "Love Unto the Grave",
+      "The Afersata",
+      "Beneath the Lion's Gaze",
+      "Treatise Of Zera Yacob"
+    ]
+  },
+  "Finland": {
+    "books": []
+  },
+  "Fiji": {
+    "books": []
+  },
+  "Falkland Islands (Malvinas)": {
+    "books": []
+  },
+  "France": {
+    "books": [
+    "The Wanderer",
+    "Rosie Carpe",
+    ""
+  ]
+    
+  },
+  "Faroe Islands": {
+    "books": []
+  },
+  "Micronesia, Federated States of": {
+    "books": []
+  },
+  "Gabon": {
+    "books": []
+  },
+  "United Kingdom": {
+    "books": []
+  },
+  "Georgia": {
+    "books": []
+  },
+  "Guernsey": {
+    "books": []
+  },
+  "Ghana": {
+    "books": []
+  },
+  "Gibraltar": {
+    "books": []
+  },
+  "Guinea": {
+    "books": []
+  },
+  "Guadeloupe": {
+    "books": []
+  },
+  "Gambia": {
+    "books": []
+  },
+  "Guinea-Bissau": {
+    "books": []
+  },
+  "Equatorial Guinea": {
+    "books": []
+  },
+  "Greece": {
+    "books": []
+  },
+  "Grenada": {
+    "books": []
+  },
+  "Greenland": {
+    "books": []
+  },
+  "Guatemala": {
+    "books": []
+  },
+  "French Guiana": {
+    "books": []
+  },
+  "Guam": {
+    "books": []
+  },
+  "Guyana": {
+    "books": []
+  },
+  "Hong Kong": {
+    "books": []
+  },
+  "Heard Island and McDonald Islands": {
+    "books": []
+  },
+  "Honduras": {
+    "books": []
+  },
+  "Croatia": {
+    "books": []
+  },
+  "Haiti": {
+    "books": []
+  },
+  "Hungary": {
+    "books": []
+  },
+  "Indonesia": {
+    "books": []
+  },
+  "Isle of Man": {
+    "books": []
+  },
+  "India": {
+    "books": []
+  },
+  "British Indian Ocean Territory": {
+    "books": []
+  },
+  "Ireland": {
+    "books": []
+  },
+  "Iran": {
+    "books": [
+      "Women Without Men",
+      "The Enlightenment Of The Greengage Tree",
+      "If You Could Be Mine",
+      "Funny in Farsi",
+      "The Blind Owl"
+    ]
+  },
+  "Iraq": {
+    "books": []
+  },
+  "Iceland": {
+    "books": []
+  },
+  "Israel": {
+    "books": []
+  },
+  "Italy": {
+    "books": []
+  },
+  "Jamaica": {
+    "books": []
+  },
+  "Jersey": {
+    "books": []
+  },
+  "Jordan": {
+    "books": []
+  },
+  "Japan": {
+    "books": []
+  },
+  "Kazakhstan": {
+    "books": []
+  },
+  "Kenya": {
+    "books": []
+  },
+  "Kyrgyzstan": {
+    "books": []
+  },
+  "Cambodia": {
+    "books": []
+  },
+  "Kiribati": {
+    "books": []
+  },
+  "Saint Kitts and Nevis": {
+    "books": []
+  },
+  "Korea, Republic of": {
+    "books": []
+  },
+  "Kuwait": {
+    "books": []
+  },
+  "Lao People's Democratic Republic": {
+    "books": []
+  },
+  "Lebanon": {
+    "books": []
+  },
+  "Liberia": {
+    "books": []
+  },
+  "Libya": {
+    "books": [
+      "A Tunnel Lit By A Woman",
+      "The Anatomy of Disappearance",
+      "The Tales of Crescent Moon Clan",
+      "Gardens of the Night",
+      "Zodiac of Echoes",
+      "These Are The Borders Of My Kingdom"]
+  },
+  "Saint Lucia": {
+    "books": []
+  },
+  "Liechtenstein": {
+    "books": []
+  },
+  "Sri Lanka": {
+    "books": []
+  },
+  "Lesotho": {
+    "books": []
+  },
+  "Lithuania": {
+    "books": []
+  },
+  "Luxembourg": {
+    "books": []
+  },
+  "Latvia": {
+    "books": []
+  },
+  "Macao": {
+    "books": []
+  },
+  "Saint Martin (French part)": {
+    "books": []
+  },
+  "Morocco": {
+    "books": [
+      "The Sacred Night",
+      "Le Passé Simple",
+      "The Other Americans",
+      "For Bread Alone",
+      "The Moor’s Account"
+    ]
+  },
+  "Monaco": {
+    "books": []
+  },
+  "Moldova, Republic of": {
+    "books": []
+  },
+  "Madagascar": {
+    "books": []
+  },
+  "Maldives": {
+    "books": []
+  },
+  "Mexico": {
+    "books": []
+  },
+  "Marshall Islands": {
+    "books": []
+  },
+  "North Macedonia": {
+    "books": []
+  },
+  "Mali": {
+    "books": []
+  },
+  "Malta": {
+    "books": []
+  },
+  "Myanmar": {
+    "books": []
+  },
+  "Montenegro": {
+    "books": []
+  },
+  "Mongolia": {
+    "books": []
+  },
+  "Northern Mariana Islands": {
+    "books": []
+  },
+  "Mozambique": {
+    "books": []
+  },
+  "Mauritania": {
+    "books": []
+  },
+  "Montserrat": {
+    "books": []
+  },
+  "Martinique": {
+    "books": []
+  },
+  "Mauritius": {
+    "books": []
+  },
+  "Malawi": {
+    "books": []
+  },
+  "Malaysia": {
+    "books": []
+  },
+  "Mayotte": {
+    "books": []
+  },
+  "Namibia": {
+    "books": []
+  },
+  "New Caledonia": {
+    "books": []
+  },
+  "Niger": {
+    "books": []
+  },
+  "Norfolk Island": {
+    "books": []
+  },
+  "Nigeria": {
+    "books": []
+  },
+  "Nicaragua": {
+    "books": []
+  },
+  "Niue": {
+    "books": []
+  },
+  "Netherlands": {
+    "books": []
+  },
+  "Norway": {
+    "books": []
+  },
+  "Nepal": {
+    "books": [
+      "Pagal Basti",
+      "Summer Love",
+      "Palpasa Café",
+      "Karnali Blues",
+      "Seto Dharti"
+    ]
+  },
+  "Nauru": {
+    "books": []
+  },
+  "New Zealand": {
+    "books": []
+  },
+  "Oman": {
+    "books": []
+  },
+  "Pakistan": {
+    "books": []
+  },
+  "Panama": {
+    "books": []
+  },
+  "Pitcairn": {
+    "books": []
+  },
+  "Peru": {
+    "books": []
+  },
+  "Philippines": {
+    "books": []
+  },
+  "Palau": {
+    "books": []
+  },
+  "Papua New Guinea": {
+    "books": []
+  },
+  "Poland": {
+    "books": []
+  },
+  "Puerto Rico": {
+    "books": []
+  },
+  "Korea, Democratic People's Republic of": {
+    "books": []
+  },
+  "Portugal": {
+    "books": []
+  },
+  "Paraguay": {
+    "books": []
+  },
+  "Palestine, State of": {
+    "books": []
+  },
+  "French Polynesia": {
+    "books": []
+  },
+  "Qatar": {
+    "books": []
+  },
+  "Réunion": {
+    "books": []
+  },
+  "Romania": {
+    "books": []
+  },
+  "Russian Federation": {
+    "books": []
+  },
+  "Rwanda": {
+    "books": []
+  },
+  "Saudi Arabia": {
+    "books": []
+  },
+  "Sudan": {
+    "books": []
+  },
+  "Senegal": {
+    "books": []
+  },
+  "Singapore": {
+    "books": []
+  },
+  "South Georgia and the South Sandwich Islands": {
+    "books": []
+  },
+  "Saint Helena, Ascension and Tristan da Cunha": {
+    "books": []
+  },
+  "Svalbard and Jan Mayen": {
+    "books": []
+  },
+  "Solomon Islands": {
+    "books": []
+  },
+  "Sierra Leone": {
+    "books": []
+  },
+  "El Salvador": {
+    "books": []
+  },
+  "San Marino": {
+    "books": []
+  },
+  "Somalia": {
+    "books": []
+  },
+  "Saint Pierre and Miquelon": {
+    "books": []
+  },
+  "Serbia": {
+    "books": []
+  },
+  "South Sudan": {
+    "books": []
+  },
+  "Sao Tome and Principe": {
+    "books": []
+  },
+  "Suriname": {
+    "books": []
+  },
+  "Slovakia": {
+    "books": []
+  },
+  "Slovenia": {
+    "books": []
+  },
+  "Sweden": {
+    "books": []
+  },
+  "Eswatini": {
+    "books": []
+  },
+  "Sint Maarten (Dutch part)": {
+    "books": []
+  },
+  "Seychelles": {
+    "books": []
+  },
+  "Syrian Arab Republic": {
+    "books": []
+  },
+  "Turks and Caicos Islands": {
+    "books": []
+  },
+  "Chad": {
+    "books": []
+  },
+  "Togo": {
+    "books": []
+  },
+  "Thailand": {
+    "books": []
+  },
+  "Tajikistan": {
+    "books": []
+  },
+  "Tokelau": {
+    "books": []
+  },
+  "Turkmenistan": {
+    "books": []
+  },
+  "Timor-Leste": {
+    "books": []
+  },
+  "Tonga": {
+    "books": []
+  },
+  "Trinidad and Tobago": {
+    "books": []
+  },
+  "Tunisia": {
+    "books": []
+  },
+  "Türkiye": {
+    "books": []
+  },
+  "Tuvalu": {
+    "books": []
+  },
+  "Taiwan, Province of China": {
+    "books": []
+  },
+  "Tanzania, United Republic of": {
+    "books": []
+  },
+  "Uganda": {
+    "books": []
+  },
+  "Ukraine": {
+    "books": []
+  },
+  "United States Minor Outlying Islands": {
+    "books": []
+  },
+  "Uruguay": {
+    "books": []
+  },
+  "United States": {
+    "books": []
+  },
+  "Uzbekistan": {
+    "books": []
+  },
+  "Holy See (Vatican City State)": {
+    "books": []
+  },
+  "Saint Vincent and the Grenadines": {
+    "books": []
+  },
+  "Venezuela, Bolivarian Republic of": {
+    "books": []
+  },
+  "Virgin Islands, British": {
+    "books": []
+  },
+  "Virgin Islands, U.S.": {
+    "books": []
+  },
+  "Viet Nam": {
+    "books": []
+  },
+  "Vanuatu": {
+    "books": []
+  },
+  "Wallis and Futuna": {
+    "books": []
+  },
+  "Samoa": {
+    "books": []
+  },
+  "Yemen": {
+    "books": []
+  },
+  "South Africa": {
+    "books": []
+  },
+  "Zambia": {
+    "books": []
+  },
+  "Zimbabwe": {
+    "books": []
+  }
+}
