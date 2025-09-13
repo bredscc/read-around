@@ -22,7 +22,7 @@
 ---
 
 ## Project Structure
-  world-books/
+world-books/
 │── index.html # Main page
 │── about.html # About page
 │── app.js # Frontend logic
