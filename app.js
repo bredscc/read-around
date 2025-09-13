@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const result = document.getElementById("result");
 
   
-  fetch("countries_books.json")
+  fetch("./countries_books.json")
     .then(response => response.json())
     .then(data => {
       pickBtn.addEventListener("click", () => {
