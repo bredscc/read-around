@@ -8,7 +8,7 @@
 - Python script to generate and manage the dataset (`countries_books.json`).
 - Static website styled with **Bootstrap**.
 - A "Pick a Country" button that randomly selects a country and displays book suggestions.
-- Extensible JSON data structure: you can easily add more countries and books.
+- Extensible JSON data structure: so I can easily add more countries and books.
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## Live Demo
 Check out the live version here:  
-👉 [ReadAround on GitHub Pages](https://bredscc.github.io/read-around/)
+👉 [ReadAround on GitHub Pages](https://brecketline.me/read-around/)
 
 ---
 
