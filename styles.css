@@ -1,6 +1,11 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
 #result h2 {
-  color: #779dd6; 
+  color: #0d6efd;
   margin-bottom: 20px;
+  font-weight: 600;
 }
 
 #result ul {
@@ -10,7 +15,14 @@
 
 #result li {
   background: #e9ecef;
-  margin: 8px 0;
-  padding: 10px;
-  border-radius: 6px;
+  margin: 10px auto;
+  padding: 12px;
+  border-radius: 10px;
+  max-width: 400px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+#result li:hover {
+  transform: translateY(-3px);
 }

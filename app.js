@@ -1,31 +1,25 @@
-async function loadData() {
-  const response = await fetch("countries_books.json");
-  const data = await response.json();
-  return data;
-}
+fetch("countries_books.json")
+  .then(response => response.json())
+  .then(data => {
+    const pickBtn = document.getElementById("pickBtn");
+    const result = document.getElementById("result");
 
-function pickRandomCountry(data) {
-  const countries = Object.keys(data);
-  const withBooks = countries.filter(
-    (c) => data[c].books && data[c].books.length > 0
-  );
+    pickBtn.addEventListener("click", () => {
+      const countries = Object.keys(data);
+      const randomCountry = countries[Math.floor(Math.random() * countries.length)];
+      const books = data[randomCountry].books;
 
-  const pool = withBooks.length > 0 ? withBooks : countries;
-  const country = pool[Math.floor(Math.random() * pool.length)];
-  return { country, books: data[country].books };
-}
-
-document.getElementById("pickBtn").addEventListener("click", async () => {
-  const data = await loadData();
-  const { country, books } = pickRandomCountry(data);
-
-  const resultDiv = document.getElementById("result");
-  resultDiv.innerHTML = `<h2>${country}</h2>`;
-
-  if (books.length > 0) {
-    const list = books.map((b) => `<li>${b}</li>`).join("");
-    resultDiv.innerHTML += `<ul>${list}</ul>`;
-  } else {
-    resultDiv.innerHTML += "<p>There are no books registered yet.</p>";
-  }
-});
+      result.innerHTML = `
+        <h4 class="text-muted mb-3">Your next country is:</h4>
+        <h2>${randomCountry}</h2>
+        ${
+          books.length
+            ? `<ul>${books.map(b => `<li>${b}</li>`).join("")}</ul>`
+            : "<p class='text-danger'>⚠️ No books registered yet for this country.</p>"
+        }
+      `;
+    });
+  })
+  .catch(error => {
+    console.error("Error loading JSON:", error);
+  });

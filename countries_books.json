@@ -29,13 +29,27 @@
     "books": []
   },
   "Albania": {
-    "books": []
+    "books": [
+      "The Three-Arched Bridge",
+      "The Secret of the Last Supper",
+      "The Ballad of the Lost Love",
+      "A Girl in Exile : Requiem for Linda B"
+    ]
   },
   "Andorra": {
-    "books": []
+    "books": [
+      "El mestre de Kheops",
+      "L’home de mirada clara"
+    ]
   },
   "United Arab Emirates": {
-    "books": []
+    "books": [
+      "The Sand Fish",
+      "Letters to a Young Muslim",
+      "The Final Strife",
+      "Of Palm Trees and Skies"
+
+    ]
   },
   "Argentina": {
     "books": [
@@ -54,15 +68,7 @@
       "The Gardens of Silihdar",
       "The Sandcastle Girls"
     ]
-  },
-  "American Samoa": {
-    "books": []
-  },
-  "Antarctica": {
-    "books": []
-  },
-  "French Southern Territories": {
-    "books": []
+  
   },
   "Antigua and Barbuda": {
     "books": [
@@ -92,7 +98,12 @@
     ]
   },
   "Azerbaijan": {
-    "books": []
+    "books": [
+      "Ali and Nino",
+      "Days in the Caucasus",
+      "The Book of Dede Korkut",
+      "The Adventures of the Vizier of the Khan of Lankaran"
+    ]
   },
   "Burundi": {
     "books": []
@@ -152,10 +163,20 @@
     "books": []
   },
   "Brazil": {
-    "books": []
+    "books": [
+      "Macunaíma",
+      "Gabriela, Clove and Cinnamon",
+      "The Hour of the Star",
+      "The Devil to Pay in the Backlands",
+      "Dom Casmurro"
+    ]
   },
   "Barbados": {
-    "books": []
+    "books": [
+      "The Arrivants",
+      "In The Castle Of My Skin",
+      "Redemption in Indigo",
+      "The Polished Hoe"]
   },
   "Brunei Darussalam": {
     "books": []
