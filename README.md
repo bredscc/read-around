@@ -1,7 +1,6 @@
 # ReadAround 
 
-**ReadAround** is a playful project that combines **Python**, **JSON**, and a **static website** powered by **GitHub Pages**.  
-It lets you randomly pick a country and discover emblematic books from that country, like traveling the world through literature.
+**ReadAround** Is a **Python** automation project that randomly selects a country and recommends a classic book from its literary tradition. Data is managed in **JSON** and results are displayed on a static site hosted with GitHub Pages. Born from a personal goal to read more internationally.
 
 ---
 
