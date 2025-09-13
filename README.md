@@ -17,20 +17,7 @@
 - **JSON** → storing countries and books  
 - **HTML + CSS + JavaScript** → frontend logic  
 - **Bootstrap** → responsive design and styling  
-- **GitHub Pages** → hosting  
-
----
-
-## Project Structure
-world-books/
-│── index.html # Main page
-│── about.html # About page
-│── app.js # Frontend logic
-│── styles.css # Custom styling
-│── countries_books.json # Dataset
-│── generate_countries_json.py # Script to generate JSON
-│── random_picker.py # Test script for random selection
-│── requirements.txt # Python dependencies
+- **GitHub Pages** → hosting 
 
 ---
 
