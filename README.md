@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 - Python script to generate and manage the dataset (`countries_books.json`).
 - Static website styled with **Bootstrap**.
 - A "Pick a Country" button that randomly selects a country and displays book suggestions.
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python** → dataset generation and manipulation  
 - **JSON** → storing countries and books  
 - **HTML + CSS + JavaScript** → frontend logic  
@@ -21,8 +21,8 @@
 
 ---
 
-## 📂 Project Structure
-readaround/
+## Project Structure
+  world-books/
 │── index.html # Main page
 │── about.html # About page
 │── app.js # Frontend logic
@@ -34,14 +34,13 @@ readaround/
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 Check out the live version here:  
 👉 [ReadAround on GitHub Pages](https://bredscc.github.io/read-around/)
 
 ---
 
-## 💡 Future Ideas
-- Add a search/filter by country.  
-- Display book covers using a public API.  
+## Future Ideas
+- Integrate a book API to show cover art and hover-to-reveal synopses.
 - Allow users to contribute book suggestions.  
 - Add more interactivity with animations.  
