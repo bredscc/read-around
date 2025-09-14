@@ -113,7 +113,9 @@
   },
   "Belgium": {
     "books": [
-      "The Guard"
+      "The Guard",
+      "The Angel Maker",
+      "Invitation to a Voyahe"
     ]
   },
   "Benin": {
@@ -229,7 +231,13 @@
     "books": []
   },
   "Colombia": {
-    "books": []
+    "books": [
+      "One Hundred Years of Solitude by Gabriel Garcia Márquez",
+      "The Sound Of Things Falling by Juan Gabriel Vásquez",
+      "Tales From The Town of Windows by James Cañón",
+      "Our Lady of the Assassins by Fernando Vallejo",
+      "The Armies by Margarita García Robayo"
+    ]
   },
   "Comoros": {
     "books": []
@@ -259,7 +267,13 @@
     "books": []
   },
   "Germany": {
-    "books": []
+    "books": [
+      "Steppenwolf by Herman Hesse",
+      "The Magic Mountain by Thomas Mann",
+      "The Lost Honour of Katharina Blum by Heinrich Böll",
+      "The End of Loneliness by Benedict Wells",
+      "Go, Went, Gone by Jenny Erpenbeck"
+    ]
   },
   "Djibouti": {
     "books": []
@@ -268,7 +282,13 @@
     "books": []
   },
   "Denmark": {
-    "books": []
+    "books": [
+      "The Emperor's New Clothes by Hans Christian Andersen",
+      "Smilla's Sense of Snow by Peter Høeg",
+      "The Shamer's Daughter by Lene Kaaberbøl",
+      "The Keeper of Lost Causes by Jussi Adler-Olsen",
+      "Fear and Trembling, Søren Kierkegaard"
+    ]
   },
   "Dominican Republic": {
     "books": []
@@ -280,7 +300,13 @@
     "books": []
   },
   "Egypt": {
-    "books": []
+    "books": [
+      "Midaq Alley by Naguib Mahfouz",
+      "Woman at Point Zero by Nawal El Saadawi",
+      "Miramar by Naguib Mahfouz",
+      "Zayni Barakat by Jamal al- Ghitani",
+      "The Open Door by Latifa Zayyat"
+    ]
   },
   "Eritrea": {
     "books": []
@@ -339,7 +365,13 @@
     "books": []
   },
   "Georgia": {
-    "books": []
+    "books": [
+      "The Knight in the Panther’s Skin by Shota Rustaveli",
+      "The Martyrdom of Shushanik",
+      "A Man Was Going Down the Road by Otar Chiladze",
+      "The Hermit by Nikoloz Baratashvili",
+      "Journey to Karabakh by Aka Morchiladze"
+    ]
   },
   "Guernsey": {
     "books": []
@@ -735,7 +767,14 @@
     "books": []
   },
   "Serbia": {
-    "books": []
+    "books": [
+      "A Tomb for Boris Davidovich by Danilo Kiš",
+      "The Use Of Man by Aleksandar Tišma",
+      "Unclean Blood by Bora Stancović",
+      "Dervish and Death by Meša Selimović",
+      "Premeditated Murder by Slobodan Selenić"
+
+    ]
   },
   "South Sudan": {
     "books": []
@@ -836,7 +875,7 @@
   "Saint Vincent and the Grenadines": {
     "books": []
   },
-  "Venezuela, Bolivarian Republic of": {
+  "Venezuela": {
     "books": []
   },
   "Virgin Islands, British": {
@@ -845,7 +884,7 @@
   "Virgin Islands, U.S.": {
     "books": []
   },
-  "Viet Nam": {
+  "Vietnam": {
     "books": []
   },
   "Vanuatu": {
