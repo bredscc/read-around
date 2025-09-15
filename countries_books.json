@@ -397,7 +397,6 @@
       "Homegoing by Yaa Gyasi",
       "The Hundred Wells of Salaga by Ayesha Harruna Attah",
       "Anowa by Ama Ata Aidoo",
-      "Our Sister Killjoy by Ama Ata Aidoo",
       "Sosu's Call by Meshack Asare"
     ]
   },
@@ -411,8 +410,9 @@
       "Soundjata Ou L'épopée Mandingue by Djibril Tamsir Niane",
       "Saint Monsieur Baly by Williams Sassine",
       "The Dark Child by Camara Laye",
-      "Little Brother : A Refugee's Odyssey by Ibrahima Balde",
-      "D'un Fouta-Djalloo à L'autre by Sirah Baldé de Labé"]
+      "Little Brother : A Refugee's Odyssey by Ibrahima Balde"
+      
+    ]
   },
   "Guadeloupe": {
     "books": [
@@ -432,11 +432,16 @@
   },
   "Guinea-Bissau": {
     "books": [
-      "The Ultimate Tragedy by Abdulai Sila"]
+      "The Ultimate Tragedy by Abdulai Sila"
+    ]
   },
   "Equatorial Guinea": {
     "books": [
-      ""
+      "La Bastarda by Trifonia Melibea Obono",
+      "By Night the Mountain Burns by Juan Tomás Ávila Laurel",
+      "Shadows of Your Black Memory by Donato Ndongo-Bidyogo"
+
+
     ]
   },
   "Greece": {
@@ -926,7 +931,13 @@
     "books": []
   },
   "Uruguay": {
-    "books": []
+    "books": [
+      "The Shipyard by Juan Carlos Onetti",
+      "The Luminous Novel by Mario Levrero",
+      "The Ship Of Fools by Cristina Peri Rossi",
+      "The Memory of Fire Trilogy by Eduardo Galeano",
+      "The Naked Woman by Armonía Somers"
+    ]
   },
   "United States": {
     "books": []
