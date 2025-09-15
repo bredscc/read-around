@@ -119,7 +119,13 @@
     ]
   },
   "Benin": {
-    "books": []
+    "books": [
+      "Doguicimi by Paul Hazoumé",
+      "The Rope Makers by Jean Pliya",
+      "Snares Without End by Olympe Bhêly-Quenum",
+      "Our Nightly Bread by Florent Couao-Zotti",
+      "Thrown to the Lions/Wolves by Adelaide Fassinou"
+    ]
   },
   "Bonaire, Sint Eustatius and Saba": {
     "books": []
@@ -185,26 +191,38 @@
       "Redemption in Indigo",
       "The Polished Hoe"]
   },
-  "Brunei Darussalam": {
-    "books": []
+  "Brunei": {
+    "books": [
+      "I Am Not Your Eve by Devika Ponnambalam",
+      "The Fisherman King by Kathrina Mohd Daud",
+      "Written in Black by K H Lim",
+      "The Witch Doctor's Daughter"
+    ]
   },
   "Bhutan": {
-    "books": []
-  },
-  "Bouvet Island": {
-    "books": []
+    "books": [
+      "The Circle of Karma by Kunzang Choden",
+      "Treasures of the Thunder Dragon by Queen Mother Dorji Wangmo",
+      "Folktales Of Bhutan by Kunzang Choden",
+      "Tales in Colour and Other Stories by Kunzang Choden",
+      "The Talisman of Good Fortune and Other Stories from Rural Bhutan by Rinzin Rinzin"
+    ]
   },
   "Botswana": {
-    "books": []
+    "books": [
+      "A Question of Power by Bessie Head",
+      "Matin by Norman Rush"
+
+
+    ]
   },
   "Central African Republic": {
     "books": []
   },
   "Canada": {
-    "books": []
-  },
-  "Cocos (Keeling) Islands": {
-    "books": []
+    "books": [
+
+    ]
   },
   "Switzerland": {
     "books": []
@@ -221,10 +239,10 @@
   "Cameroon": {
     "books": []
   },
-  "Congo, The Democratic Republic of the": {
+  "Democratic Republic of the Congo": {
     "books": []
   },
-  "Congo": {
+  "Republic of the Congo": {
     "books": []
   },
   "Cook Islands": {
@@ -373,29 +391,53 @@
       "Journey to Karabakh by Aka Morchiladze"
     ]
   },
-  "Guernsey": {
-    "books": []
-  },
   "Ghana": {
-    "books": []
+    "books": [
+      "The Beautyful Ones are Not Yet Born by Ayi K. Armah",
+      "Homegoing by Yaa Gyasi",
+      "The Hundred Wells of Salaga by Ayesha Harruna Attah",
+      "Anowa by Ama Ata Aidoo",
+      "Our Sister Killjoy by Ama Ata Aidoo",
+      "Sosu's Call by Meshack Asare"
+    ]
   },
   "Gibraltar": {
-    "books": []
+    "books": [
+      "Diary of a Victorian Colonial and other Tales by M.G. Sanchez"
+    ]
   },
   "Guinea": {
-    "books": []
+    "books": [
+      "Soundjata Ou L'épopée Mandingue by Djibril Tamsir Niane",
+      "Saint Monsieur Baly by Williams Sassine",
+      "The Dark Child by Camara Laye",
+      "Little Brother : A Refugee's Odyssey by Ibrahima Balde",
+      "D'un Fouta-Djalloo à L'autre by Sirah Baldé de Labé"]
   },
   "Guadeloupe": {
-    "books": []
+    "books": [
+      "Traversée de la Mangrove by Maryse Condé",
+      "L'Homme-au-Bâton by Ernest Pépin",
+      "The Bridge Of Beyond by Simone Schwarz-Bart"
+    ]
   },
   "Gambia": {
-    "books": []
+    "books": [
+      "Chaff on the Wind by Ebrima Dibba",
+      "Second Round by Lenrie Peters",
+      "The Magic Hat of Erubami by Nana Grey-Johnson",
+      "Dreams of Dusty Roads by Tijan Sallah",
+      "Reading the Ceiling by Dayo Forster"
+    ]
   },
   "Guinea-Bissau": {
-    "books": []
+    "books": [
+      "The Ultimate Tragedy by Abdulai Sila"]
   },
   "Equatorial Guinea": {
-    "books": []
+    "books": [
+      ""
+    ]
   },
   "Greece": {
     "books": []
@@ -777,16 +819,39 @@
     ]
   },
   "South Sudan": {
-    "books": []
+    "books": [
+      "Beneath the Darkening Sky by Majok Tulba",
+      "Hopeless Kingdom by Kgshak Akec",
+      "No Time to Mourn : An Anthology by South Sudanese Women by Hilda J. Twongyeirwe",
+      "Edo's Souls by Stella Gaitano",
+      "They Poured Fire on Us from the Sky: The True Story of Three Lost Boys from Sudan by Benson Deng"
+    ]
   },
   "Sao Tome and Principe": {
-    "books": []
+    "books": [
+      "Dolorosa Raiz De Micondo by Conceição Lima",
+      "Native Dance: An African Story by Gervásio Kaiser",
+      "No Gods Live Here : Poems by Conceicao Lima",
+      "Equador (Paperback) by Miguel Sousa Tavares"
+    ]
   },
   "Suriname": {
-    "books": []
+    "books": [
+      "Out of Slavery: A Surinamese Roots History” by Wim S. M. Hoogbergen",
+      "On a Woman's Madness by Astrid Roemer",
+      "Reconstruction by Karin Amatmoekrim",
+      "The Cost of Sugar by Cynthia McLeod",
+      "The Politics of Passion : Women's Sexual Culture in the Afro-Surinamese Diaspora by Gloria Wekker"
+    ]
   },
   "Slovakia": {
-    "books": []
+    "books": [
+      "Jednorožce by Barbora Hrínová",
+      "Notes from the Homeland by Mihail Bulgar",
+      "Night Circus And Other Stories by Ursula Kovalyk",
+      "Babička by Ivana Gibová",
+      "Away! Away! by Jana Beňová"
+    ]
   },
   "Slovenia": {
     "books": []
@@ -845,10 +910,10 @@
   "Tuvalu": {
     "books": []
   },
-  "Taiwan, Province of China": {
+  "Taiwan": {
     "books": []
   },
-  "Tanzania, United Republic of": {
+  "Tanzania": {
     "books": []
   },
   "Uganda": {
