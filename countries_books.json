@@ -113,9 +113,13 @@
  },
  "Belgium": {
    "books": [
-     "The Guard",
-     "The Angel Maker",
-     "Invitation to a Voyahe"
+    "Pallieter by Felix Timmermans",
+    "The Sorrow of Belgium by Hugo Claus",
+    "The Strange Case of Peter the Lett by Georges Simenon",
+    "Fear and Tremblingby Amélie Nothomb",
+    "Margot and the Angelsby Kristien Hemmerechts"
+
+
    ]
  },
  "Benin": {
@@ -127,44 +131,62 @@
      "Thrown to the Lions/Wolves by Adelaide Fassinou"
    ]
  },
- "Bonaire, Sint Eustatius and Saba": {
-   "books": []
- },
  "Burkina Faso": {
-   "books": []
+   "books": [
+    "Le Crépuscule des Temps Anciens by Nazi Boni",
+    "So Distant From My Life by Monique Ilboudo",
+    "The Parachute Drop by Norbert Zongo",
+    "Les Frasques d'Ebinto by Amadou Koné",
+    "Ainsi on a Assassiné Tous Les Mossé by Titinga Frédéric"
+  ]
  },
  "Bangladesh": {
-   "books": []
+   "books": [
+    "Pather Panchali by Bibhutibhushan Bandopadhyay",
+    "Sultana's Dream by Rokeya Sakhawat Hossain",
+    "The Boatman of the Padma by Manik Bandopadhyay",
+    "The Hungry Tide by Amitav Ghosh",
+    "Aranyak: Of the Forest by Bibhutibhushan Bandyopadhyay"
+  ]
  },
  "Bulgaria": {
    "books": [
-     "Bai Ganyo",
-     "Natural Novel",
-     "Street Without a Name",
-     "Is There Anybody to Love You?",
-     "Time of Parting"
+     "Bai Ganyo by Aleko Konstantinov",
+     "Natural Novel by Geoorgi Gospodinov",
+     "Street without a Name: Childhood and Other Misadventures in Bulgaria by Kapka Kassabova",
+     "Is There Anybody to Love You? by Kalin Terziyski",
+     "Time of Parting by  Anton Donchev"
    ]
  },
  "Bahrain": {
-   "books": []
+   "books": [
+    "The Right to Sex : The Sunday Times Bestseller by Amia Srinivasan",
+    "The Pearl Thief by Noor Al Noaimi",
+    "Scattered Crumbs by Lulwa Al Mansouri",
+    "Yummah by Sarah A. Al Shafei"
+  ]
  },
  "Bahamas": {
-   "books": []
+   "books": [
+    "Life On A Rock by K A Albury",
+    "Facing the Sun by Janice Lynn Mather",
+    "An Evening In Guanima by Patricia Glinton-Meicholas",
+    "Blind Sight by Tanya R. Taylor"
+   ]
  },
  "Bosnia and Herzegovina": {
    "books": [
-     "Sarajevo Marlboro",
-     "The Bridge on the Drina",
-     "Quiet Flows The Una",
-     "Nowhere Man",
-     "The World And All That It Holds"
+    "The Bridge on the Drin by Ivo Andrić",
+    "Death and the Dervish by Meša Selimović",
+    "How the Soldier Repairs the Gramophone by Saša Stanišić",
+    "Sarajevo Marlboro by Miljenko Jergović",
+    "The Question of Bruno, Aleksandar Hemon"
    ]
  },
- "Saint Barthélemy": {
-   "books": []
- },
  "Belarus": {
-   "books": []
+   "books": [
+    
+   ]
  },
  "Belize": {
    "books": []
