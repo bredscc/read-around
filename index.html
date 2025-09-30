@@ -1,62 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Atlas of Stories</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Read Around</title>
   
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
-
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-  <link rel="stylesheet" href="styles.css" />
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  
+  <!-- Material Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Spinning Earth Background -->
+  <div class="background-globe"></div>
 
-  <div class="hero d-flex flex-column justify-content-center align-items-center text-center vh-100">
-    <h1 class="display-4 fw-bold mb-3">Books Without Borders</h1>
-    <p class="lead text-muted mb-4">Your passport to world literature.</p>
-    <button id="pickBtn" class="btn btn-dark btn-lg">
-      <i class="fas fa-globe me-2"></i> Spin the Globe
-    </button>
-    <small class="mt-2 text-secondary">Click to discover books from a random country.</small>
-    <div id="result" class="mt-5 w-75"></div>
+  <div class="app">
+    <main class="hero" role="main">
+      <div class="header">
+        <div class="logo">
+          <span class="material-icons logo-icon">public</span>
+          <span class="logo-text">Read Around</span>
+        </div>
+        <p class="hero-subtitle">Your passport to world literature</p>
+      </div>
+        <button id="pickBtn" class="btn-primary" aria-label="Spin the globe to pick a country">
+        <span class="material-icons btn-icon">travel_explore</span>
+        <span class="btn-text">Spin the Globe</span>
+      </button>
+      <p class="hint">Click to discover books from a random country</p>
+
+      <section id="result" class="result" aria-live="polite"></section>
+    </main>
   </div>
 
-  <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      const pickBtn = document.getElementById("pickBtn");
-      const result = document.getElementById("result");
-
-      fetch("./countries_books.json")
-        .then(response => response.json())
-        .then(data => {
-          pickBtn.addEventListener("click", () => {
-            const countries = Object.keys(data);
-            const randomCountry = countries[Math.floor(Math.random() * countries.length)];
-            const books = data[randomCountry].books;
-
-            result.innerHTML = `
-              <div class="card fade-in">
-                <h4>Today’s literary journey takes you to</h4>
-                <h2>${randomCountry}</h2>
-                ${
-                  books.length
-                    ? `<p>Here are some suggestions from this country to read:</p>
-                       <ul>${books.map(b => `<li>${b}</li>`).join("")}</ul>`
-                    : "<p class='text-muted'>We don’t have books listed for this country yet — check back soon!</p>"
-                }
-              </div>
-            `;
-          });
-        })
-        .catch(err => {
-          console.error("Error loading countries_books.json:", err);
-          result.innerHTML = "<p class='text-danger'>Could not load book data.</p>";
-        });
-    });
-  </script>
+  <!-- App Logic -->
+  <script src="app.js"></script>
 </body>
 </html>

@@ -2,25 +2,46 @@ document.addEventListener("DOMContentLoaded", () => {
   const pickBtn = document.getElementById("pickBtn");
   const result = document.getElementById("result");
 
-  
   fetch("./countries_books.json")
     .then(response => response.json())
     .then(data => {
       pickBtn.addEventListener("click", () => {
-      
         const countries = Object.keys(data);
         const randomCountry = countries[Math.floor(Math.random() * countries.length)];
         const books = data[randomCountry].books;
 
-        
         result.innerHTML = `
           <div class="card fade-in">
-            <h4>Your next country is:</h4>
-            <h2>${randomCountry}</h2>
+            <div class="card-header">
+              <h4>
+                <span class="material-icons">flight_takeoff</span>
+                Your next literary destination
+              </h4>
+              <h2>
+                <span class="material-icons">place</span>
+                ${randomCountry}
+              </h2>
+            </div>
             ${
               books.length
-                ? `<ul>${books.map(b => `<li>${b}</li>`).join("")}</ul>`
-                : "<p class='text-danger'>⚠️ No books registered yet for this country.</p>"
+                ? `
+                  <p class="books-intro">
+                    <span class="material-icons">auto_stories</span>
+                    Discover these romance novels
+                  </p>
+                  <ul>
+                    ${books.map(b => `
+                      <li>
+                        <span class="material-icons">menu_book</span>
+                        <span>${b}</span>
+                      </li>
+                    `).join("")}
+                  </ul>`
+                : `
+                  <p class="text-muted">
+                    <span class="material-icons">search_off</span>
+                    No books listed yet for this country
+                  </p>`
             }
           </div>
         `;
@@ -28,6 +49,13 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .catch(err => {
       console.error("Error loading countries_books.json:", err);
-      result.innerHTML = "<p class='text-danger'>Could not load book data.</p>";
+      result.innerHTML = `
+        <div class="card">
+          <p class="text-danger">
+            <span class="material-icons">error</span>
+            Could not load book data
+          </p>
+        </div>
+      `;
     });
 });
