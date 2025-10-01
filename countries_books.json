@@ -4,33 +4,29 @@
  },
  "Afghanistan": {
    "books": [
-   "Woman Among Warlords",
-   "Earth and Ashes",
-   "A Bed of Red Flowers",
-   "Dancing in the Mosque",
-   "Opium Nation",
-   "A Fort of Nine Towers",
-   "The Opium Prince"
+   "Woman Among Warlords by Malalai Joya",
+   "Earth and Ashes by Atiq Rahimi",
+   "A Bed of Red Flowers by Nelofer Pazira",
+   "Dancing in the Mosque by Homeira Qaderi's",
+   "Opium Nation by Fariba Nawa"
    ]
  },
  "Angola": {
    "books": [
-     "My Father's Wives",
-     "Creole",
-     "The Return od The Water Spirit",
-     "Good Morning Comrades",
-     "The Whistler"
+     "My Father's Wives by José Eduardo Agualusa",
+     "The Return od The Water Spirit by Pepetela",
+     "Good Morning Comrades by Ondjaki",
+     "The Whistler by Ondjaki"
    ]
  },
  "Anguilla": {
-   "books": []
- },
- "Åland Islands": {
-   "books": []
+   "books": [
+    "The Holy Piby by Robert Athlyi Rogers"
+   ]
  },
  "Albania": {
    "books": [
-     "The Three-Arched Bridge",
+     "The Three-Arched Bridge by Ismail Kadare",
      "The Secret of the Last Supper",
      "The Ballad of the Lost Love",
      "A Girl in Exile : Requiem for Linda B"
@@ -44,13 +40,11 @@
  },
  "United Arab Emirates": {
    "books": [
-     "The Sand Fish",
+     "The Sand Fish by Maha Gargash",
      "Letters to a Young Muslim",
      "The Final Strife",
      "Of Palm Trees and Skies"
-
-
-   ]
+    ]
  },
  "Argentina": {
    "books": [
@@ -185,8 +179,12 @@
  },
  "Belarus": {
    "books": [
-    
-   ]
+    "The Dead Feel No Pain by Vasil Bykaŭ",
+    "Red Crosses by Sasha Filipenko",
+    "Paranoia Paranoyya by Victor Martinovich",
+    "King Stakh's Wild Hunt by Uladzimir Karatkievich",
+    "Sign of Misfortune by Vasil Bykov"
+  ]
  },
  "Belize": {
    "books": []
