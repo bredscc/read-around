@@ -1,33 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Read Around</title>
-  
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-  
-  <!-- Material Icons -->
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  
-  <link rel="stylesheet" href="styles.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <!-- Spinning Earth Background -->
-  <div class="background-globe"></div>
+  <div class="background-globe" aria-hidden="true"></div>
 
   <div class="app">
-    <main class="hero" role="main">
-      <div class="header">
-        <div class="logo">
-          <span class="material-icons logo-icon">public</span>
-          <span class="logo-text">Read Around</span>
-        </div>
-        <p class="hero-subtitle">Your passport to world literature</p>
+    <header class="header">
+      <div class="logo" role="banner">
+        <span class="material-icons logo-icon" aria-hidden="true">public</span>
+        <h1 class="logo-text">Read Around</h1>
       </div>
-        <button id="pickBtn" class="btn-primary" aria-label="Spin the globe to pick a country">
-        <span class="material-icons btn-icon">travel_explore</span>
+      <p class="hero-subtitle">Your passport to world literature</p>
+    </header>
+
+    <main role="main">
+      <button id="pickBtn" class="btn-primary" aria-label="Spin the globe to pick a country">
+        <span class="material-icons btn-icon" aria-hidden="true">travel_explore</span>
         <span class="btn-text">Spin the Globe</span>
       </button>
       <p class="hint">Click to discover books from a random country</p>
@@ -36,7 +33,6 @@
     </main>
   </div>
 
-  <!-- App Logic -->
-  <script src="app.js"></script>
+  <script src="app.js" defer></script>
 </body>
 </html>
