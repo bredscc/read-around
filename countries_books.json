@@ -542,39 +542,73 @@
   ]
 },
 "Honduras": {
-  "books": []
+  "books": [
+    "Prisión Verde by Ramón Amaya Amador",
+    "Blanca Olmedo by Lucila Gamero",
+    "Don't be Afraid Gringo by Elvia Alvarado"
+  ]
 },
 "Croatia": {
-  "books": []
+  "books": [
+    "Journey to Russia by Miroslav Krleža",
+    "We Trade Our Night for Someone Elsess Day by Ivana Bodrožić",
+    "From Nowhere to Nowhere by Bekim Sejranović",
+    "The Brave Adventures of Lapitch by Ivana Brlić-Mažuranić",
+    "The Museum of Unconditional Surrender by Dubravka Ugrešić"
+  ]
 },
 "Haiti": {
-  "books": []
+  "books": [
+    "Savage Seasons by Kettly Mars",
+    "Love, Anger, Madness: A Haitian Trilogy by Marie Vieux-Chauvet",
+    "Masters of the Dew by Jacques Roumain",
+    "American Street by Ibi Zoboi",
+    "Hadriana dans tous mes rêves by René Depestre"
+  ]
 },
 "Hungary": {
-  "books": []
+  "books": [
+    "Embers by Sandor Marai",
+    "Fateless or Fatelessness by Imre Kertész",
+    "The Notebook: The Proof ; The Third Lie : Three Novels by Agota Kristof",
+    "Journey by Moonlight by Antal Szerb",
+    "Fool's Gold by Máro Doýka"
+  ]
 },
 "Indonesia": {
-  "books": []
-},
-"Isle of Man": {
-  "books": []
+  "books": [
+    "This Earth of Mankind by Pramoedya Ananta Toer",
+    "Birth Canal by Dias Novita Wuri",
+    "Man Tiger by Eka Kurniawan",
+    "The Wandering by Intan Paramaditha",
+    "The Rainbow Troops by Andrea Hirata"
+  ]
 },
 "India": {
-  "books": []
-},
-"British Indian Ocean Territory": {
-  "books": []
+  "books": [
+    "The God of Small Things by Arundhati Roy",
+    "The White Tiger by Arvind Adiga",
+    "Nectar in a Sieve by Kamala Markandaya",
+    "Great Indian Novel by Shashi Tharoor",
+    "The Sari Shop by Rupa Bajwa"
+  ]
 },
 "Ireland": {
-  "books": []
+  "books": [
+    "The Picture of Dorian Gray by Oscar Wilde",
+    "Ulysses by James Joyce",
+    "Amongst Women by John McGahern",
+    "At Swim Two Birds by Flann O'Brien",
+    "Angela's Ashes by Frank McCourt"
+  ]
 },
 "Iran": {
   "books": [
-    "Women Without Men",
-    "The Enlightenment Of The Greengage Tree",
-    "If You Could Be Mine",
-    "Funny in Farsi",
-    "The Blind Owl"
+    "Women Without Men by Shahrnush Parsipur",
+    "The Enlightenment Of The Greengage Tree by Shokoofeh Azar",
+    "If You Could Be Mine by Sara Farizan",
+    "Funny in Farsi by Firoozeh Dumas",
+    "The Blind Owl by Sadegh Hedayat"
   ]
 },
 "Iraq": {
