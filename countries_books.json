@@ -1,1044 +1,1030 @@
 {
- "Aruba": {
-   "books": []
- },
- "Afghanistan": {
-   "books": [
-   "Woman Among Warlords by Malalai Joya",
-   "Earth and Ashes by Atiq Rahimi",
-   "A Bed of Red Flowers by Nelofer Pazira",
-   "Dancing in the Mosque by Homeira Qaderi's",
-   "Opium Nation by Fariba Nawa"
-   ]
- },
- "Angola": {
-   "books": [
-     "My Father's Wives by José Eduardo Agualusa",
-     "The Return od The Water Spirit by Pepetela",
-     "Good Morning Comrades by Ondjaki",
-     "The Whistler by Ondjaki"
-   ]
- },
- "Anguilla": {
-   "books": [
-    "The Holy Piby by Robert Athlyi Rogers"
-   ]
- },
- "Albania": {
-   "books": [
-     "The Three-Arched Bridge by Ismail Kadare",
-     "The Secret of the Last Supper",
-     "The Ballad of the Lost Love",
-     "A Girl in Exile : Requiem for Linda B"
-   ]
- },
- "Andorra": {
-   "books": [
-     "El mestre de Kheops",
-     "L’home de mirada clara"
-   ]
- },
- "United Arab Emirates": {
-   "books": [
-     "The Sand Fish by Maha Gargash",
-     "Letters to a Young Muslim",
-     "The Final Strife",
-     "Of Palm Trees and Skies"
-    ]
- },
- "Argentina": {
-   "books": [
-     "Fictions",
-     "Hopscotch",
-     "How I Became a Nun",
-     "Fever Dream",
-     "Opendoor"
-   ]
- },
- "Armenia": {
-   "books": [
-     "Bringing Ararat",
-     "Three Apples Fell From The Sky",
-     "The Road from Home",
-     "The Gardens of Silihdar",
-     "The Sandcastle Girls"
-   ]
-  },
- "Antigua and Barbuda": {
-   "books": [
-     "Lucy",
-     "Annie John",
-     "Unburnable",
-     "Considering Venus",
-     "Ladies of the night"
-   ]
- },
- "Australia": {
-   "books": [
-     "Loudstreet",
-     "The Children's Bach",
-     "The book Thief",
-     "The Boat",
-     "The white Earth"
-   ]
- },
- "Austria": {
-   "books": [
-     "The Man Without Qualities",
-     "The Piano Teacher",
-     "Letters to a Young Poet",
-     "Venus in Furs",
-     "A Whole Life"
-   ]
- },
- "Azerbaijan": {
-   "books": [
-     "Ali and Nino",
-     "Days in the Caucasus",
-     "The Book of Dede Korkut",
-     "The Adventures of the Vizier of the Khan of Lankaran"
-   ]
- },
- "Burundi": {
-   "books": [
-     "Weep Not, Refugee",
-     "Baho!"
-   ]
- },
- "Belgium": {
-   "books": [
-    "Pallieter by Felix Timmermans",
-    "The Sorrow of Belgium by Hugo Claus",
-    "The Strange Case of Peter the Lett by Georges Simenon",
-    "Fear and Tremblingby Amélie Nothomb",
-    "Margot and the Angelsby Kristien Hemmerechts"
-
-
-   ]
- },
- "Benin": {
-   "books": [
-     "Doguicimi by Paul Hazoumé",
-     "The Rope Makers by Jean Pliya",
-     "Snares Without End by Olympe Bhêly-Quenum",
-     "Our Nightly Bread by Florent Couao-Zotti",
-     "Thrown to the Lions/Wolves by Adelaide Fassinou"
-   ]
- },
- "Burkina Faso": {
-   "books": [
-    "Le Crépuscule des Temps Anciens by Nazi Boni",
-    "So Distant From My Life by Monique Ilboudo",
-    "The Parachute Drop by Norbert Zongo",
-    "Les Frasques d'Ebinto by Amadou Koné",
-    "Ainsi on a Assassiné Tous Les Mossé by Titinga Frédéric"
+"Aruba": {
+  "books": []
+},
+"Afghanistan": {
+  "books": [
+  "Woman Among Warlords by Malalai Joya",
+  "Earth and Ashes by Atiq Rahimi",
+  "A Bed of Red Flowers by Nelofer Pazira",
+  "Dancing in the Mosque by Homeira Qaderi's",
+  "Opium Nation by Fariba Nawa"
   ]
- },
- "Bangladesh": {
-   "books": [
-    "Pather Panchali by Bibhutibhushan Bandopadhyay",
-    "Sultana's Dream by Rokeya Sakhawat Hossain",
-    "The Boatman of the Padma by Manik Bandopadhyay",
-    "The Hungry Tide by Amitav Ghosh",
-    "Aranyak: Of the Forest by Bibhutibhushan Bandyopadhyay"
+},
+"Angola": {
+  "books": [
+    "My Father's Wives by José Eduardo Agualusa",
+    "The Return od The Water Spirit by Pepetela",
+    "Good Morning Comrades by Ondjaki",
+    "The Whistler by Ondjaki"
   ]
- },
- "Bulgaria": {
-   "books": [
-     "Bai Ganyo by Aleko Konstantinov",
-     "Natural Novel by Geoorgi Gospodinov",
-     "Street without a Name: Childhood and Other Misadventures in Bulgaria by Kapka Kassabova",
-     "Is There Anybody to Love You? by Kalin Terziyski",
-     "Time of Parting by  Anton Donchev"
-   ]
- },
- "Bahrain": {
-   "books": [
-    "The Right to Sex : The Sunday Times Bestseller by Amia Srinivasan",
-    "The Pearl Thief by Noor Al Noaimi",
-    "Scattered Crumbs by Lulwa Al Mansouri",
-    "Yummah by Sarah A. Al Shafei"
+},
+"Anguilla": {
+  "books": [
+   "The Holy Piby by Robert Athlyi Rogers"
   ]
- },
- "Bahamas": {
-   "books": [
-    "Life On A Rock by K A Albury",
-    "Facing the Sun by Janice Lynn Mather",
-    "An Evening In Guanima by Patricia Glinton-Meicholas",
-    "Blind Sight by Tanya R. Taylor"
-   ]
- },
- "Bosnia and Herzegovina": {
-   "books": [
-    "The Bridge on the Drin by Ivo Andrić",
-    "Death and the Dervish by Meša Selimović",
-    "How the Soldier Repairs the Gramophone by Saša Stanišić",
-    "Sarajevo Marlboro by Miljenko Jergović",
-    "The Question of Bruno, Aleksandar Hemon"
-   ]
- },
- "Belarus": {
-   "books": [
-    "The Dead Feel No Pain by Vasil Bykaŭ",
-    "Red Crosses by Sasha Filipenko",
-    "Paranoia Paranoyya by Victor Martinovich",
-    "King Stakh's Wild Hunt by Uladzimir Karatkievich",
-    "Sign of Misfortune by Vasil Bykov"
-  ]
- },
- "Belize": {
-   "books": []
- },
- "Bermuda": {
-   "books": []
- },
- "Bolivia": {
-   "books": []
- },
- "Brazil": {
-   "books": [
-     "Macunaíma",
-     "Gabriela, Clove and Cinnamon",
-     "The Hour of the Star",
-     "The Devil to Pay in the Backlands",
-     "Dom Casmurro"
-   ]
- },
- "Barbados": {
-   "books": [
-     "The Arrivants",
-     "In The Castle Of My Skin",
-     "Redemption in Indigo",
-     "The Polished Hoe"]
- },
- "Brunei": {
-   "books": [
-     "I Am Not Your Eve by Devika Ponnambalam",
-     "The Fisherman King by Kathrina Mohd Daud",
-     "Written in Black by K H Lim",
-     "The Witch Doctor's Daughter"
-   ]
- },
- "Bhutan": {
-   "books": [
-     "The Circle of Karma by Kunzang Choden",
-     "Treasures of the Thunder Dragon by Queen Mother Dorji Wangmo",
-     "Folktales Of Bhutan by Kunzang Choden",
-     "Tales in Colour and Other Stories by Kunzang Choden",
-     "The Talisman of Good Fortune and Other Stories from Rural Bhutan by Rinzin Rinzin"
-   ]
- },
- "Botswana": {
-   "books": [
-     "A Question of Power by Bessie Head",
-     "Matin by Norman Rush"
-
-
-
-
-   ]
- },
- "Central African Republic": {
-   "books": []
- },
- "Canada": {
-   "books": [
-
-
-   ]
- },
- "Switzerland": {
-   "books": []
- },
- "Chile": {
-   "books": []
- },
- "China": {
-   "books": []
- },
- "Côte d'Ivoire": {
-   "books": []
- },
- "Cameroon": {
-   "books": []
- },
- "Democratic Republic of the Congo": {
-   "books": []
- },
- "Republic of the Congo": {
-   "books": []
- },
- "Cook Islands": {
-   "books": []
- },
- "Colombia": {
-   "books": [
-     "One Hundred Years of Solitude by Gabriel Garcia Márquez",
-     "The Sound Of Things Falling by Juan Gabriel Vásquez",
-     "Tales From The Town of Windows by James Cañón",
-     "Our Lady of the Assassins by Fernando Vallejo",
-     "The Armies by Margarita García Robayo"
-   ]
- },
- "Comoros": {
-   "books": []
- },
- "Cabo Verde": {
-   "books": []
- },
- "Costa Rica": {
-   "books": []
- },
- "Cuba": {
-   "books": []
- },
- "Curaçao": {
-   "books": []
- },
- "Christmas Island": {
-   "books": []
- },
- "Cayman Islands": {
-   "books": []
- },
- "Cyprus": {
-   "books": []
- },
- "Czechia": {
-   "books": []
- },
- "Germany": {
-   "books": [
-     "Steppenwolf by Herman Hesse",
-     "The Magic Mountain by Thomas Mann",
-     "The Lost Honour of Katharina Blum by Heinrich Böll",
-     "The End of Loneliness by Benedict Wells",
-     "Go, Went, Gone by Jenny Erpenbeck"
-   ]
- },
- "Djibouti": {
-   "books": []
- },
- "Dominica": {
-   "books": []
- },
- "Denmark": {
-   "books": [
-     "The Emperor's New Clothes by Hans Christian Andersen",
-     "Smilla's Sense of Snow by Peter Høeg",
-     "The Shamer's Daughter by Lene Kaaberbøl",
-     "The Keeper of Lost Causes by Jussi Adler-Olsen",
-     "Fear and Trembling, Søren Kierkegaard"
-   ]
- },
- "Dominican Republic": {
-   "books": []
- },
- "Algeria": {
-   "books": []
- },
- "Ecuador": {
-   "books": []
- },
- "Egypt": {
-   "books": [
-     "Midaq Alley by Naguib Mahfouz",
-     "Woman at Point Zero by Nawal El Saadawi",
-     "Miramar by Naguib Mahfouz",
-     "Zayni Barakat by Jamal al- Ghitani",
-     "The Open Door by Latifa Zayyat"
-   ]
- },
- "Eritrea": {
-   "books": []
- },
- "Western Sahara": {
-   "books": []
- },
- "Spain": {
-   "books": [
-     "La Regenta",
-     "A Heart So White",
-     "Platero",
-     "Celestina Or The Tragic-Comedy Of Calisto And Melibea",
-     "Five Hours With Mario"
-   ]
-
-
- },
- "Estonia": {
-   "books": []
- },
- "Ethiopia": {
-   "books": [
-     "Love Unto the Grave",
-     "The Afersata",
-     "Beneath the Lion's Gaze",
-     "Treatise Of Zera Yacob"
-   ]
- },
- "Finland": {
-   "books": []
- },
- "Fiji": {
-   "books": []
- },
- "Falkland Islands (Malvinas)": {
-   "books": []
- },
- "France": {
-   "books": [
-   "The Wanderer",
-   "Rosie Carpe",
-   ""
- ]
-  
- },
- "Faroe Islands": {
-   "books": []
- },
- "Micronesia, Federated States of": {
-   "books": []
- },
- "Gabon": {
-   "books": []
- },
- "United Kingdom": {
-   "books": []
- },
- "Georgia": {
-   "books": [
-     "The Knight in the Panther’s Skin by Shota Rustaveli",
-     "The Martyrdom of Shushanik",
-     "A Man Was Going Down the Road by Otar Chiladze",
-     "The Hermit by Nikoloz Baratashvili",
-     "Journey to Karabakh by Aka Morchiladze"
-   ]
- },
- "Ghana": {
-   "books": [
-     "The Beautyful Ones are Not Yet Born by Ayi K. Armah",
-     "Homegoing by Yaa Gyasi",
-     "The Hundred Wells of Salaga by Ayesha Harruna Attah",
-     "Anowa by Ama Ata Aidoo",
-     "Sosu's Call by Meshack Asare"
-   ]
- },
- "Gibraltar": {
-   "books": [
-     "Diary of a Victorian Colonial and other Tales by M.G. Sanchez"
-   ]
- },
- "Guinea": {
-   "books": [
-     "Soundjata Ou L'épopée Mandingue by Djibril Tamsir Niane",
-     "Saint Monsieur Baly by Williams Sassine",
-     "The Dark Child by Camara Laye",
-     "Little Brother : A Refugee's Odyssey by Ibrahima Balde"
-    
-   ]
- },
- "Guadeloupe": {
-   "books": [
-     "Traversée de la Mangrove by Maryse Condé",
-     "L'Homme-au-Bâton by Ernest Pépin",
-     "The Bridge Of Beyond by Simone Schwarz-Bart"
-   ]
- },
- "Gambia": {
-   "books": [
-     "Chaff on the Wind by Ebrima Dibba",
-     "Second Round by Lenrie Peters",
-     "The Magic Hat of Erubami by Nana Grey-Johnson",
-     "Dreams of Dusty Roads by Tijan Sallah",
-     "Reading the Ceiling by Dayo Forster"
-   ]
- },
- "Guinea-Bissau": {
-   "books": [
-     "The Ultimate Tragedy by Abdulai Sila"
-   ]
- },
- "Equatorial Guinea": {
-   "books": [
-     "La Bastarda by Trifonia Melibea Obono",
-     "By Night the Mountain Burns by Juan Tomás Ávila Laurel",
-     "Shadows of Your Black Memory by Donato Ndongo-Bidyogo"
-
-
-
-
-   ]
- },
- "Greece": {
-   "books": [
-     "The Murderess by Alexandros Papadiamantis",
-     "The Last Temptation of Christ by Nikos Kazantzakis",
-     "The Scapegoat by Sophia Nikolaidou",
-     "Drifting Cities by Stratis Tsirkas",
-     "Why I Killed My Best Friend Amanda Michalopoulou"
-   ]
- },
- "Grenada": {
-   "books": [
-     "The Ladies Are Upstairs by Merle Collins",
-     "October All Over by Maria Roberts-Squires",
-     "Pynter Bender by Jacob Ross",
-     "Force Ripe by Cindy Mackenzie",
-     "Under the Silk Cotton Tree by Jean Buffong"
-   ]
- },
- "Guatemala": {
-   "books": [
-     "Trout, Belly Up by Rodrigo Fuentes",
-     "Dreaming of You by Melissa Lozada-Oliva",
-     "Our Migrant Souls by Héctor Tobar",
-     "Men of Maize by Miguel Ángel Asturias",
-     "The Long Night Of White Chickens by Francisco Goldman"
-   ]
- },
- "French Guiana": {
-   "books": [
-     "Papillon by Henri Charrière",
-     "Batuala by René Maran",
-     "The Bastards by Bertène Juminer",
-     "Le Nègre du Gouverneur by Serge Patient"
-   ]
- },
- "Guam": {
-   "books": [
-     "Attitude 13: A Daughter of Guam's Collection of Short Stories by Tanya Chargualaf Taimanglo",
-     "No Country for Eight-Spot Butterflies: A Lyric Essay by Julian Aguon"
-   ]
- },
- "Guyana": {
-   "books": [
-     "To Sir, With Love by E. R. Braithwaite",
-     "The Ventriloquist's Tale by Pauline Melville",
-     "Palace of the Peacock by Wilson Harris",
-     "The Golden Age of the Moor by Ivan Van Sertima",
-     "The Jumbie Bird by Ismith Khan"
-   ]
- },
- "Hong Kong": {
-   "books": [
-     "The Piano Teacher by Janice Y. K. Lee"
+},
+"Albania": {
+  "books": [
+    "The Three-Arched Bridge by Ismail Kadare",
+    "The Secret of the Last Supper",
+    "The Ballad of the Lost Love",
+    "A Girl in Exile : Requiem for Linda B"
    ]
 },
- "Honduras": {
-   "books": []
- },
- "Croatia": {
-   "books": []
- },
- "Haiti": {
-   "books": []
- },
- "Hungary": {
-   "books": []
- },
- "Indonesia": {
-   "books": []
- },
- "Isle of Man": {
-   "books": []
- },
- "India": {
-   "books": []
- },
- "British Indian Ocean Territory": {
-   "books": []
- },
- "Ireland": {
-   "books": []
- },
- "Iran": {
-   "books": [
-     "Women Without Men",
-     "The Enlightenment Of The Greengage Tree",
-     "If You Could Be Mine",
-     "Funny in Farsi",
-     "The Blind Owl"
+"Andorra": {
+  "books": [
+    "El mestre de Kheops by Albert Salvadó",
+    "L’home de Mirada Clara by Ludmilla Lacueva Canut"
    ]
- },
- "Iraq": {
-   "books": []
- },
- "Iceland": {
-   "books": []
- },
- "Israel": {
-   "books": []
- },
- "Italy": {
-   "books": []
- },
- "Jamaica": {
-   "books": []
- },
- "Jersey": {
-   "books": []
- },
- "Jordan": {
-   "books": []
- },
- "Japan": {
-   "books": []
- },
- "Kazakhstan": {
-   "books": []
- },
- "Kenya": {
-   "books": []
- },
- "Kyrgyzstan": {
-   "books": []
- },
- "Cambodia": {
-   "books": []
- },
- "Kiribati": {
-   "books": []
- },
- "Saint Kitts and Nevis": {
-   "books": []
- },
- "Korea, Republic of": {
-   "books": []
- },
- "Kuwait": {
-   "books": []
- },
- "Lao People's Democratic Republic": {
-   "books": []
- },
- "Lebanon": {
-   "books": []
- },
- "Liberia": {
-   "books": []
- },
- "Libya": {
-   "books": [
-     "A Tunnel Lit By A Woman",
-     "The Anatomy of Disappearance",
-     "The Tales of Crescent Moon Clan",
-     "Gardens of the Night",
-     "Zodiac of Echoes",
-     "These Are The Borders Of My Kingdom"]
- },
- "Saint Lucia": {
-   "books": []
- },
- "Liechtenstein": {
-   "books": []
- },
- "Sri Lanka": {
-   "books": []
- },
- "Lesotho": {
-   "books": []
- },
- "Lithuania": {
-   "books": []
- },
- "Luxembourg": {
-   "books": []
- },
- "Latvia": {
-   "books": []
- },
- "Macao": {
-   "books": []
- },
- "Saint Martin (French part)": {
-   "books": []
- },
- "Morocco": {
-   "books": [
-     "The Sacred Night",
-     "Le Passé Simple",
-     "The Other Americans",
-     "For Bread Alone",
-     "The Moor’s Account"
+},
+"United Arab Emirates": {
+  "books": [
+    "The Sand Fish by Maha Gargash",
+    "Letters to a Young Muslim by Omar Saif Ghobash",
+    "The Diesel by Thani Al-Suwaidi",
+    "Temporary People by Deepak Unnikrishnan"
    ]
- },
- "Monaco": {
-   "books": []
- },
- "Moldova, Republic of": {
-   "books": []
- },
- "Madagascar": {
-   "books": []
- },
- "Maldives": {
-   "books": []
- },
- "Mexico": {
-   "books": []
- },
- "Marshall Islands": {
-   "books": []
- },
- "North Macedonia": {
-   "books": []
- },
- "Mali": {
-   "books": []
- },
- "Malta": {
-   "books": []
- },
- "Myanmar": {
-   "books": []
- },
- "Montenegro": {
-   "books": []
- },
- "Mongolia": {
-   "books": []
- },
- "Northern Mariana Islands": {
-   "books": []
- },
- "Mozambique": {
-   "books": []
- },
- "Mauritania": {
-   "books": []
- },
- "Montserrat": {
-   "books": []
- },
- "Martinique": {
-   "books": []
- },
- "Mauritius": {
-   "books": []
- },
- "Malawi": {
-   "books": []
- },
- "Malaysia": {
-   "books": []
- },
- "Mayotte": {
-   "books": []
- },
- "Namibia": {
-   "books": []
- },
- "New Caledonia": {
-   "books": []
- },
- "Niger": {
-   "books": []
- },
- "Norfolk Island": {
-   "books": []
- },
- "Nigeria": {
-   "books": []
- },
- "Nicaragua": {
-   "books": []
- },
- "Niue": {
-   "books": []
- },
- "Netherlands": {
-   "books": []
- },
- "Norway": {
-   "books": []
- },
- "Nepal": {
-   "books": [
-     "Pagal Basti",
-     "Summer Love",
-     "Palpasa Café",
-     "Karnali Blues",
-     "Seto Dharti"
-   ]
- },
- "Nauru": {
-   "books": []
- },
- "New Zealand": {
-   "books": []
- },
- "Oman": {
-   "books": []
- },
- "Pakistan": {
-   "books": []
- },
- "Panama": {
-   "books": []
- },
- "Pitcairn": {
-   "books": []
- },
- "Peru": {
-   "books": []
- },
- "Philippines": {
-   "books": []
- },
- "Palau": {
-   "books": []
- },
- "Papua New Guinea": {
-   "books": []
- },
- "Poland": {
-   "books": []
- },
- "Puerto Rico": {
-   "books": []
- },
- "Korea, Democratic People's Republic of": {
-   "books": []
- },
- "Portugal": {
-   "books": []
- },
- "Paraguay": {
-   "books": []
- },
- "Palestine, State of": {
-   "books": []
- },
- "French Polynesia": {
-   "books": []
- },
- "Qatar": {
-   "books": []
- },
- "Réunion": {
-   "books": []
- },
- "Romania": {
-   "books": []
- },
- "Russian Federation": {
-   "books": []
- },
- "Rwanda": {
-   "books": []
- },
- "Saudi Arabia": {
-   "books": []
- },
- "Sudan": {
-   "books": []
- },
- "Senegal": {
-   "books": []
- },
- "Singapore": {
-   "books": []
- },
- "South Georgia and the South Sandwich Islands": {
-   "books": []
- },
- "Saint Helena, Ascension and Tristan da Cunha": {
-   "books": []
- },
- "Svalbard and Jan Mayen": {
-   "books": []
- },
- "Solomon Islands": {
-   "books": []
- },
- "Sierra Leone": {
-   "books": []
- },
- "El Salvador": {
-   "books": []
- },
- "San Marino": {
-   "books": []
- },
- "Somalia": {
-   "books": []
- },
- "Saint Pierre and Miquelon": {
-   "books": []
- },
- "Serbia": {
-   "books": [
-     "A Tomb for Boris Davidovich by Danilo Kiš",
-     "The Use Of Man by Aleksandar Tišma",
-     "Unclean Blood by Bora Stancović",
-     "Dervish and Death by Meša Selimović",
-     "Premeditated Murder by Slobodan Selenić"
+},
+"Argentina": {
+  "books": [
+    "Fictions by Jorge Luis Borges",
+    "Hopscotch by Julio Cortazar",
+    "The Seven Madmen by Roberto Arlt",
+    "Tender Is the Flesh by Agustina Bazterrica",
+    "The Invention Of MorelAdolfo Bioy Casares"
+  ]
+},
+"Armenia": {
+  "books": [
+    "Bringing Ararat by Arnand Inezian",
+    "Three Apples Fell From The Sky by Narine Abgaryan",
+    "The Road from Home by David Kherdian",
+    "The Gardens of Silihdar by Zabel Yessayan",
+    "The Sandcastle Girls by Chris Bohjalian"
+  ]
+ },
+"Antigua and Barbuda": {
+  "books": [
+    "Lucy by Jamaica Kincaid",
+    "Annie John by Jamaica Kincaid",
+    "Unburnable by Marie-Elena John",
+    "Go Deep by Rilzy Adams"
+ ]
+},
+"Australia": {
+  "books": [
+    "Loudstreet",
+    "The Children's Bach",
+    "The book Thief",
+    "The Boat",
+    "The white Earth"
+  ]
+},
+"Austria": {
+  "books": [
+    "The Man Without Qualities",
+    "The Piano Teacher",
+    "Letters to a Young Poet",
+    "Venus in Furs",
+    "A Whole Life"
+  ]
+},
+"Azerbaijan": {
+  "books": [
+    "Ali and Nino",
+    "Days in the Caucasus",
+    "The Book of Dede Korkut",
+    "The Adventures of the Vizier of the Khan of Lankaran"
+  ]
+},
+"Burundi": {
+  "books": [
+    "Weep Not, Refugee",
+    "Baho!"
+  ]
+},
+"Belgium": {
+  "books": [
+   "Pallieter by Felix Timmermans",
+   "The Sorrow of Belgium by Hugo Claus",
+   "The Strange Case of Peter the Lett by Georges Simenon",
+   "Fear and Tremblingby Amélie Nothomb",
+   "Margot and the Angelsby Kristien Hemmerechts"
 
 
+
+
+  ]
+},
+"Benin": {
+  "books": [
+    "Doguicimi by Paul Hazoumé",
+    "The Rope Makers by Jean Pliya",
+    "Snares Without End by Olympe Bhêly-Quenum",
+    "Our Nightly Bread by Florent Couao-Zotti",
+    "Thrown to the Lions/Wolves by Adelaide Fassinou"
+  ]
+},
+"Burkina Faso": {
+  "books": [
+   "Le Crépuscule des Temps Anciens by Nazi Boni",
+   "So Distant From My Life by Monique Ilboudo",
+   "The Parachute Drop by Norbert Zongo",
+   "Les Frasques d'Ebinto by Amadou Koné",
+   "Ainsi on a Assassiné Tous Les Mossé by Titinga Frédéric"
+ ]
+},
+"Bangladesh": {
+  "books": [
+   "Pather Panchali by Bibhutibhushan Bandopadhyay",
+   "Sultana's Dream by Rokeya Sakhawat Hossain",
+   "The Boatman of the Padma by Manik Bandopadhyay",
+   "The Hungry Tide by Amitav Ghosh",
+   "Aranyak: Of the Forest by Bibhutibhushan Bandyopadhyay"
+ ]
+},
+"Bulgaria": {
+  "books": [
+    "Bai Ganyo by Aleko Konstantinov",
+    "Natural Novel by Geoorgi Gospodinov",
+    "Street without a Name: Childhood and Other Misadventures in Bulgaria by Kapka Kassabova",
+    "Is There Anybody to Love You? by Kalin Terziyski",
+    "Time of Parting by  Anton Donchev"
+  ]
+},
+"Bahrain": {
+  "books": [
+   "The Right to Sex : The Sunday Times Bestseller by Amia Srinivasan",
+   "The Pearl Thief by Noor Al Noaimi",
+   "Scattered Crumbs by Lulwa Al Mansouri",
+   "Yummah by Sarah A. Al Shafei"
+ ]
+},
+"Bahamas": {
+  "books": [
+   "Life On A Rock by K A Albury",
+   "Facing the Sun by Janice Lynn Mather",
+   "An Evening In Guanima by Patricia Glinton-Meicholas",
+   "Blind Sight by Tanya R. Taylor"
+  ]
+},
+"Bosnia and Herzegovina": {
+  "books": [
+   "The Bridge on the Drin by Ivo Andrić",
+   "Death and the Dervish by Meša Selimović",
+   "How the Soldier Repairs the Gramophone by Saša Stanišić",
+   "Sarajevo Marlboro by Miljenko Jergović",
+   "The Question of Bruno, Aleksandar Hemon"
+  ]
+},
+"Belarus": {
+  "books": [
+   "The Dead Feel No Pain by Vasil Bykaŭ",
+   "Red Crosses by Sasha Filipenko",
+   "Paranoia Paranoyya by Victor Martinovich",
+   "King Stakh's Wild Hunt by Uladzimir Karatkievich",
+   "Sign of Misfortune by Vasil Bykov"
+ ]
+},
+"Belize": {
+  "books": []
+},
+"Bermuda": {
+  "books": []
+},
+"Bolivia": {
+  "books": []
+},
+"Brazil": {
+  "books": [
+    "Macunaíma",
+    "Gabriela, Clove and Cinnamon",
+    "The Hour of the Star",
+    "The Devil to Pay in the Backlands",
+    "Dom Casmurro"
+  ]
+},
+"Barbados": {
+  "books": [
+    "The Arrivants",
+    "In The Castle Of My Skin",
+    "Redemption in Indigo",
+    "The Polished Hoe"]
+},
+"Brunei": {
+  "books": [
+    "I Am Not Your Eve by Devika Ponnambalam",
+    "The Fisherman King by Kathrina Mohd Daud",
+    "Written in Black by K H Lim",
+    "The Witch Doctor's Daughter"
+  ]
+},
+"Bhutan": {
+  "books": [
+    "The Circle of Karma by Kunzang Choden",
+    "Treasures of the Thunder Dragon by Queen Mother Dorji Wangmo",
+    "Folktales Of Bhutan by Kunzang Choden",
+    "Tales in Colour and Other Stories by Kunzang Choden",
+    "The Talisman of Good Fortune and Other Stories from Rural Bhutan by Rinzin Rinzin"
+  ]
+},
+"Botswana": {
+  "books": [
+    "A Question of Power by Bessie Head",
+    "Matin by Norman Rush"
+  ]
+},
+"Central African Republic": {
+  "books": []
+},
+"Canada": {
+  "books": []
+},
+"Switzerland": {
+  "books": []
+},
+"Chile": {
+  "books": []
+},
+"China": {
+  "books": []
+},
+"Côte d'Ivoire": {
+  "books": []
+},
+"Cameroon": {
+  "books": []
+},
+"Democratic Republic of the Congo": {
+  "books": []
+},
+"Republic of the Congo": {
+  "books": []
+},
+"Cook Islands": {
+  "books": []
+},
+"Colombia": {
+  "books": [
+    "One Hundred Years of Solitude by Gabriel Garcia Márquez",
+    "The Sound Of Things Falling by Juan Gabriel Vásquez",
+    "Tales From The Town of Windows by James Cañón",
+    "Our Lady of the Assassins by Fernando Vallejo",
+    "The Armies by Margarita García Robayo"
+  ]
+},
+"Comoros": {
+  "books": []
+},
+"Cabo Verde": {
+  "books": []
+},
+"Costa Rica": {
+  "books": []
+},
+"Cuba": {
+  "books": []
+},
+"Curaçao": {
+  "books": []
+},
+"Christmas Island": {
+  "books": []
+},
+"Cayman Islands": {
+  "books": []
+},
+"Cyprus": {
+  "books": []
+},
+"Czechia": {
+  "books": []
+},
+"Germany": {
+  "books": [
+    "Steppenwolf by Herman Hesse",
+    "The Magic Mountain by Thomas Mann",
+    "The Lost Honour of Katharina Blum by Heinrich Böll",
+    "The End of Loneliness by Benedict Wells",
+    "Go, Went, Gone by Jenny Erpenbeck"
+  ]
+},
+"Djibouti": {
+  "books": []
+},
+"Dominica": {
+  "books": []
+},
+"Denmark": {
+  "books": [
+    "The Emperor's New Clothes by Hans Christian Andersen",
+    "Smilla's Sense of Snow by Peter Høeg",
+    "The Shamer's Daughter by Lene Kaaberbøl",
+    "The Keeper of Lost Causes by Jussi Adler-Olsen",
+    "Fear and Trembling, Søren Kierkegaard"
+  ]
+},
+"Dominican Republic": {
+  "books": []
+},
+"Algeria": {
+  "books": []
+},
+"Ecuador": {
+  "books": []
+},
+"Egypt": {
+  "books": [
+    "Midaq Alley by Naguib Mahfouz",
+    "Woman at Point Zero by Nawal El Saadawi",
+    "Miramar by Naguib Mahfouz",
+    "Zayni Barakat by Jamal al- Ghitani",
+    "The Open Door by Latifa Zayyat"
+  ]
+},
+"Eritrea": {
+  "books": []
+},
+"Western Sahara": {
+  "books": []
+},
+"Spain": {
+  "books": [
+    "The Family of Pascual Duarte by Camilo José Cela",
+    "A Heart So White by Javier Marías",
+    "Fortunata y Jacinta by Benito Pérez Galdós ",
+    "Mist by Miguel de Unamuno",
+    "The Shadow of the Wind by Carlos Ruiz Zafón",
+    "Blood Wedding by García Lorca"
+  ]
+},
+"Estonia": {
+  "books": [
+   "The Czar's Madman by Jaan Kross",
+   "Walker On Water by Kristiina Ehin",
+   "Truth and Justice I by A.H. Tammsaare",
+   "The Man Who Spoke Snakish by Andrus Kivirähk",
+   "Spring by Oskar Luts"
+  ]
+},
+"Ethiopia": {
+  "books": [
+    "Love to the Grave by Haddis Alemayehu",
+    "The Afersata by Sahle Sellassie",
+    "Beneath the Lion's Gaze by Maaza Mengiste",
+    "The Beautiful Things That Heaven Bears by Dinaw Mengestu",
+    "Wated Time by Yemodish Bekele"
    ]
+},
+"Finland": {
+  "books": [
+   "The Seven Brothers by Aleksis Kivi",
+   "Under the North Star by Väinö Linna",
+   "The Year of the Hare by Arto Paasilinna",
+   "Purge by Sofi Oksanen",
+   "Beasts of the Sea by Lida Turpeinen"
+ ]
+},
+"Fiji": {
+  "books": [
+   "To an Unknown Horizon by Vivekanand Sharma",
+   "The Wounded Sea by Satendra Nandan",
+   "Moving Through the Streets by Joseph Veramo"
+ ]
+},
+"France": {
+  "books": [
+   "L'amant by Marguerite Duras",
+   "Madame Bovary by Gustave Flaubert",
+   "Candide, or the Optimist by Voltaire",
+   "The Stranger by Albert Camus",
+   "Dangerous Liaisons by Choderos de Laclos"
+  ]
  },
- "South Sudan": {
-   "books": [
-     "Beneath the Darkening Sky by Majok Tulba",
-     "Hopeless Kingdom by Kgshak Akec",
-     "No Time to Mourn : An Anthology by South Sudanese Women by Hilda J. Twongyeirwe",
-     "Edo's Souls by Stella Gaitano",
-     "They Poured Fire on Us from the Sky: The True Story of Three Lost Boys from Sudan by Benson Deng"
-   ]
- },
- "Sao Tome and Principe": {
-   "books": [
-     "Dolorosa Raiz De Micondo by Conceição Lima",
-     "Native Dance: An African Story by Gervásio Kaiser",
-     "No Gods Live Here : Poems by Conceicao Lima",
-     "Equador (Paperback) by Miguel Sousa Tavares"
-   ]
- },
- "Suriname": {
-   "books": [
-     "Out of Slavery: A Surinamese Roots History” by Wim S. M. Hoogbergen",
-     "On a Woman's Madness by Astrid Roemer",
-     "Reconstruction by Karin Amatmoekrim",
-     "The Cost of Sugar by Cynthia McLeod",
-     "The Politics of Passion : Women's Sexual Culture in the Afro-Surinamese Diaspora by Gloria Wekker"
-   ]
- },
- "Slovakia": {
-   "books": [
-     "Jednorožce by Barbora Hrínová",
-     "Notes from the Homeland by Mihail Bulgar",
-     "Night Circus And Other Stories by Ursula Kovalyk",
-     "Babička by Ivana Gibová",
-     "Away! Away! by Jana Beňová"
-   ]
- },
- "Slovenia": {
-   "books": []
- },
- "Sweden": {
-   "books": []
- },
- "Eswatini": {
-   "books": []
- },
- "Sint Maarten (Dutch part)": {
-   "books": []
- },
- "Seychelles": {
-   "books": []
- },
- "Syrian Arab Republic": {
-   "books": []
- },
- "Turks and Caicos Islands": {
-   "books": []
- },
- "Chad": {
-   "books": []
- },
- "Togo": {
-   "books": []
- },
- "Thailand": {
-   "books": []
- },
- "Tajikistan": {
-   "books": []
- },
- "Tokelau": {
-   "books": []
- },
- "Turkmenistan": {
-   "books": []
- },
- "Timor-Leste": {
-   "books": []
- },
- "Tonga": {
-   "books": []
- },
- "Trinidad and Tobago": {
-   "books": []
- },
- "Tunisia": {
-   "books": []
- },
- "Türkiye": {
-   "books": []
- },
- "Tuvalu": {
-   "books": []
- },
- "Taiwan": {
-   "books": []
- },
- "Tanzania": {
-   "books": []
- },
- "Uganda": {
-   "books": []
- },
- "Ukraine": {
-   "books": []
- },
- "United States Minor Outlying Islands": {
-   "books": []
- },
- "Uruguay": {
-   "books": [
-     "The Shipyard by Juan Carlos Onetti",
-     "The Luminous Novel by Mario Levrero",
-     "The Ship Of Fools by Cristina Peri Rossi",
-     "The Memory of Fire Trilogy by Eduardo Galeano",
-     "The Naked Woman by Armonía Somers"
-   ]
- },
- "United States": {
-   "books": []
- },
- "Uzbekistan": {
-   "books": []
- },
- "Holy See (Vatican City State)": {
-   "books": []
- },
- "Saint Vincent and the Grenadines": {
-   "books": []
- },
- "Venezuela": {
-   "books": []
- },
- "Virgin Islands, British": {
-   "books": []
- },
- "Virgin Islands, U.S.": {
-   "books": []
- },
- "Vietnam": {
-   "books": []
- },
- "Vanuatu": {
-   "books": []
- },
- "Wallis and Futuna": {
-   "books": []
- },
- "Samoa": {
-   "books": []
- },
- "Yemen": {
-   "books": []
- },
- "South Africa": {
-   "books": []
- },
- "Zambia": {
-   "books": []
- },
- "Zimbabwe": {
-   "books": []
- }
+"Faroe Islands": {
+  "books": []
+},
+"Micronesia, Federated States of": {
+  "books": []
+},
+"Gabon": {
+  "books": [
+   "Awu's Story : A Novel by Justine Mintsa",
+   "Mema by Daniel M. Mengara",
+   "The Fury and Cries of Women by Angèle Rawiri",
+   "Aurore's Journey by Nadia Origo",
+   "Histoire d'un enfant trouvé by Robert Zotoumbat"
+  ]
+},
+"United Kingdom": {
+  "books": [
+   "Middlemarch by George Eliot",
+   "To the Lighthouse by Virginia Woolf",
+   "Great Expectations by Charles Dickens",
+   "Vanity Fair by William Makepeace Thackeray",
+   "The Good Soldier by Ford Madox Ford"
+  ]
+},
+"Georgia": {
+  "books": [
+    "The Knight in the Panther’s Skin by Shota Rustaveli",
+    "The Martyrdom of Shushanik",
+    "A Man Was Going Down the Road by Otar Chiladze",
+    "The Hermit by Nikoloz Baratashvili",
+    "Journey to Karabakh by Aka Morchiladze"
+  ]
+},
+"Ghana": {
+  "books": [
+    "The Beautyful Ones are Not Yet Born by Ayi K. Armah",
+    "Homegoing by Yaa Gyasi",
+    "The Hundred Wells of Salaga by Ayesha Harruna Attah",
+    "Anowa by Ama Ata Aidoo",
+    "Sosu's Call by Meshack Asare"
+  ]
+},
+"Gibraltar": {
+  "books": [
+    "Diary of a Victorian Colonial and other Tales by M.G. Sanchez"
+  ]
+},
+"Guinea": {
+  "books": [
+    "Soundjata Ou L'épopée Mandingue by Djibril Tamsir Niane",
+    "Saint Monsieur Baly by Williams Sassine",
+    "The Dark Child by Camara Laye",
+    "Little Brother : A Refugee's Odyssey by Ibrahima Balde"
+  
+  ]
+},
+"Guadeloupe": {
+  "books": [
+    "Traversée de la Mangrove by Maryse Condé",
+    "L'Homme-au-Bâton by Ernest Pépin",
+    "The Bridge Of Beyond by Simone Schwarz-Bart"
+  ]
+},
+"Gambia": {
+  "books": [
+    "Chaff on the Wind by Ebrima Dibba",
+    "Second Round by Lenrie Peters",
+    "The Magic Hat of Erubami by Nana Grey-Johnson",
+    "Dreams of Dusty Roads by Tijan Sallah",
+    "Reading the Ceiling by Dayo Forster"
+  ]
+},
+"Guinea-Bissau": {
+  "books": [
+    "The Ultimate Tragedy by Abdulai Sila"
+  ]
+},
+"Equatorial Guinea": {
+  "books": [
+    "La Bastarda by Trifonia Melibea Obono",
+    "By Night the Mountain Burns by Juan Tomás Ávila Laurel",
+    "Shadows of Your Black Memory by Donato Ndongo-Bidyogo"
+  ]
+},
+"Greece": {
+  "books": [
+    "The Murderess by Alexandros Papadiamantis",
+    "The Last Temptation of Christ by Nikos Kazantzakis",
+    "The Scapegoat by Sophia Nikolaidou",
+    "Drifting Cities by Stratis Tsirkas",
+    "Why I Killed My Best Friend Amanda Michalopoulou"
+  ]
+},
+"Grenada": {
+  "books": [
+    "The Ladies Are Upstairs by Merle Collins",
+    "October All Over by Maria Roberts-Squires",
+    "Pynter Bender by Jacob Ross",
+    "Force Ripe by Cindy Mackenzie",
+    "Under the Silk Cotton Tree by Jean Buffong"
+  ]
+},
+"Guatemala": {
+  "books": [
+    "Trout, Belly Up by Rodrigo Fuentes",
+    "Dreaming of You by Melissa Lozada-Oliva",
+    "Our Migrant Souls by Héctor Tobar",
+    "Men of Maize by Miguel Ángel Asturias",
+    "The Long Night Of White Chickens by Francisco Goldman"
+  ]
+},
+"French Guiana": {
+  "books": [
+    "Papillon by Henri Charrière",
+    "Batuala by René Maran",
+    "The Bastards by Bertène Juminer",
+    "Le Nègre du Gouverneur by Serge Patient"
+  ]
+},
+"Guam": {
+  "books": [
+    "Attitude 13: A Daughter of Guam's Collection of Short Stories by Tanya Chargualaf Taimanglo",
+    "No Country for Eight-Spot Butterflies: A Lyric Essay by Julian Aguon"
+  ]
+},
+"Guyana": {
+  "books": [
+    "To Sir, With Love by E. R. Braithwaite",
+    "The Ventriloquist's Tale by Pauline Melville",
+    "Palace of the Peacock by Wilson Harris",
+    "The Golden Age of the Moor by Ivan Van Sertima",
+    "The Jumbie Bird by Ismith Khan"
+  ]
+},
+"Hong Kong": {
+  "books": [
+    "The Piano Teacher by Janice Y. K. Lee"
+  ]
+},
+"Honduras": {
+  "books": []
+},
+"Croatia": {
+  "books": []
+},
+"Haiti": {
+  "books": []
+},
+"Hungary": {
+  "books": []
+},
+"Indonesia": {
+  "books": []
+},
+"Isle of Man": {
+  "books": []
+},
+"India": {
+  "books": []
+},
+"British Indian Ocean Territory": {
+  "books": []
+},
+"Ireland": {
+  "books": []
+},
+"Iran": {
+  "books": [
+    "Women Without Men",
+    "The Enlightenment Of The Greengage Tree",
+    "If You Could Be Mine",
+    "Funny in Farsi",
+    "The Blind Owl"
+  ]
+},
+"Iraq": {
+  "books": []
+},
+"Iceland": {
+  "books": []
+},
+"Israel": {
+  "books": []
+},
+"Italy": {
+  "books": []
+},
+"Jamaica": {
+  "books": []
+},
+"Jersey": {
+  "books": []
+},
+"Jordan": {
+  "books": []
+},
+"Japan": {
+  "books": []
+},
+"Kazakhstan": {
+  "books": []
+},
+"Kenya": {
+  "books": []
+},
+"Kyrgyzstan": {
+  "books": []
+},
+"Cambodia": {
+  "books": []
+},
+"Kiribati": {
+  "books": []
+},
+"Saint Kitts and Nevis": {
+  "books": []
+},
+"Korea, Republic of": {
+  "books": []
+},
+"Kuwait": {
+  "books": []
+},
+"Lao People's Democratic Republic": {
+  "books": []
+},
+"Lebanon": {
+  "books": []
+},
+"Liberia": {
+  "books": []
+},
+"Libya": {
+  "books": [
+    "A Tunnel Lit By A Woman",
+    "The Anatomy of Disappearance",
+    "The Tales of Crescent Moon Clan",
+    "Gardens of the Night",
+    "Zodiac of Echoes",
+    "These Are The Borders Of My Kingdom"]
+},
+"Saint Lucia": {
+  "books": []
+},
+"Liechtenstein": {
+  "books": []
+},
+"Sri Lanka": {
+  "books": []
+},
+"Lesotho": {
+  "books": []
+},
+"Lithuania": {
+  "books": []
+},
+"Luxembourg": {
+  "books": []
+},
+"Latvia": {
+  "books": []
+},
+"Macao": {
+  "books": []
+},
+"Saint Martin (French part)": {
+  "books": []
+},
+"Morocco": {
+  "books": [
+    "The Sacred Night",
+    "Le Passé Simple",
+    "The Other Americans",
+    "For Bread Alone",
+    "The Moor’s Account"
+  ]
+},
+"Monaco": {
+  "books": []
+},
+"Moldova, Republic of": {
+  "books": []
+},
+"Madagascar": {
+  "books": []
+},
+"Maldives": {
+  "books": []
+},
+"Mexico": {
+  "books": []
+},
+"Marshall Islands": {
+  "books": []
+},
+"North Macedonia": {
+  "books": []
+},
+"Mali": {
+  "books": []
+},
+"Malta": {
+  "books": []
+},
+"Myanmar": {
+  "books": []
+},
+"Montenegro": {
+  "books": []
+},
+"Mongolia": {
+  "books": []
+},
+"Mozambique": {
+  "books": []
+},
+"Mauritania": {
+  "books": []
+},
+"Montserrat": {
+  "books": []
+},
+"Martinique": {
+  "books": []
+},
+"Mauritius": {
+  "books": []
+},
+"Malawi": {
+  "books": []
+},
+"Malaysia": {
+  "books": []
+},
+"Namibia": {
+  "books": []
+},
+"New Caledonia": {
+  "books": []
+},
+"Niger": {
+  "books": []
+},
+"Nigeria": {
+  "books": []
+},
+"Nicaragua": {
+  "books": []
+},
+"Niue": {
+  "books": []
+},
+"Netherlands": {
+  "books": []
+},
+"Norway": {
+  "books": []
+},
+"Nepal": {
+  "books": [
+    "Pagal Basti",
+    "Summer Love",
+    "Palpasa Café",
+    "Karnali Blues",
+    "Seto Dharti"
+  ]
+},
+"Nauru": {
+  "books": []
+},
+"New Zealand": {
+  "books": []
+},
+"Oman": {
+  "books": []
+},
+"Pakistan": {
+  "books": []
+},
+"Panama": {
+  "books": []
+},
+"Pitcairn": {
+  "books": []
+},
+"Peru": {
+  "books": []
+},
+"Philippines": {
+  "books": []
+},
+"Palau": {
+  "books": []
+},
+"Papua New Guinea": {
+  "books": []
+},
+"Poland": {
+  "books": []
+},
+"Puerto Rico": {
+  "books": []
+},
+"Korea, Democratic People's Republic of": {
+  "books": []
+},
+"Portugal": {
+  "books": []
+},
+"Paraguay": {
+  "books": []
+},
+"Palestine, State of": {
+  "books": []
+},
+"French Polynesia": {
+  "books": []
+},
+"Qatar": {
+  "books": []
+},
+"Réunion": {
+  "books": []
+},
+"Romania": {
+  "books": []
+},
+"Russian Federation": {
+  "books": []
+},
+"Rwanda": {
+  "books": []
+},
+"Saudi Arabia": {
+  "books": []
+},
+"Sudan": {
+  "books": []
+},
+"Senegal": {
+  "books": []
+},
+"Singapore": {
+  "books": []
+},
+"South Georgia and the South Sandwich Islands": {
+  "books": []
+},
+"Saint Helena, Ascension and Tristan da Cunha": {
+  "books": []
+},
+"Solomon Islands": {
+  "books": []
+},
+"Sierra Leone": {
+  "books": []
+},
+"El Salvador": {
+  "books": []
+},
+"San Marino": {
+  "books": []
+},
+"Somalia": {
+  "books": []
+},
+"Serbia": {
+  "books": [
+    "A Tomb for Boris Davidovich by Danilo Kiš",
+    "The Use Of Man by Aleksandar Tišma",
+    "Unclean Blood by Bora Stancović",
+    "Dervish and Death by Meša Selimović",
+    "Premeditated Murder by Slobodan Selenić"
+
+
+
+
+  ]
+},
+"South Sudan": {
+  "books": [
+    "Beneath the Darkening Sky by Majok Tulba",
+    "Hopeless Kingdom by Kgshak Akec",
+    "No Time to Mourn : An Anthology by South Sudanese Women by Hilda J. Twongyeirwe",
+    "Edo's Souls by Stella Gaitano",
+    "They Poured Fire on Us from the Sky: The True Story of Three Lost Boys from Sudan by Benson Deng"
+  ]
+},
+"Sao Tome and Principe": {
+  "books": [
+    "Dolorosa Raiz De Micondo by Conceição Lima",
+    "Native Dance: An African Story by Gervásio Kaiser",
+    "No Gods Live Here : Poems by Conceicao Lima",
+    "Equador (Paperback) by Miguel Sousa Tavares"
+  ]
+},
+"Suriname": {
+  "books": [
+    "Out of Slavery: A Surinamese Roots History” by Wim S. M. Hoogbergen",
+    "On a Woman's Madness by Astrid Roemer",
+    "Reconstruction by Karin Amatmoekrim",
+    "The Cost of Sugar by Cynthia McLeod",
+    "The Politics of Passion : Women's Sexual Culture in the Afro-Surinamese Diaspora by Gloria Wekker"
+  ]
+},
+"Slovakia": {
+  "books": [
+    "Jednorožce by Barbora Hrínová",
+    "Notes from the Homeland by Mihail Bulgar",
+    "Night Circus And Other Stories by Ursula Kovalyk",
+    "Babička by Ivana Gibová",
+    "Away! Away! by Jana Beňová"
+  ]
+},
+"Slovenia": {
+  "books": []
+},
+"Sweden": {
+  "books": []
+},
+"Eswatini": {
+  "books": []
+},
+"Seychelles": {
+  "books": []
+},
+"Syrian Arab Republic": {
+  "books": []
+},
+"Chad": {
+  "books": []
+},
+"Togo": {
+  "books": []
+},
+"Thailand": {
+  "books": []
+},
+"Tajikistan": {
+  "books": []
+},
+"Tokelau": {
+  "books": []
+},
+"Turkmenistan": {
+  "books": []
+},
+"Timor-Leste": {
+  "books": []
+},
+"Tonga": {
+  "books": []
+},
+"Trinidad and Tobago": {
+  "books": []
+},
+"Tunisia": {
+  "books": []
+},
+"Türkiye": {
+  "books": []
+},
+"Tuvalu": {
+  "books": []
+},
+"Taiwan": {
+  "books": []
+},
+"Tanzania": {
+  "books": []
+},
+"Uganda": {
+  "books": []
+},
+"Ukraine": {
+  "books": []
+},
+"Uruguay": {
+  "books": [
+    "The Shipyard by Juan Carlos Onetti",
+    "The Luminous Novel by Mario Levrero",
+    "The Ship Of Fools by Cristina Peri Rossi",
+    "The Memory of Fire Trilogy by Eduardo Galeano",
+    "The Naked Woman by Armonía Somers"
+  ]
+},
+"United States": {
+  "books": []
+},
+"Uzbekistan": {
+  "books": []
+},
+"Holy See (Vatican City State)": {
+  "books": []
+},
+"Saint Vincent and the Grenadines": {
+  "books": []
+},
+"Venezuela": {
+  "books": []
+},
+"Vietnam": {
+  "books": []
+},
+"Vanuatu": {
+  "books": []
+},
+"Samoa": {
+  "books": []
+},
+"Yemen": {
+  "books": []
+},
+"South Africa": {
+  "books": []
+},
+"Zambia": {
+  "books": []
+},
+"Zimbabwe": {
+  "books": []
 }
+}
+
 
 
