@@ -110,12 +110,7 @@
    "The Sorrow of Belgium by Hugo Claus",
    "The Strange Case of Peter the Lett by Georges Simenon",
    "Fear and Tremblingby Amélie Nothomb",
-   "Margot and the Angelsby Kristien Hemmerechts"
-
-
-
-
-  ]
+   "Margot and the Angelsby Kristien Hemmerechts"]
 },
 "Benin": {
   "books": [
@@ -188,21 +183,35 @@
  ]
 },
 "Belize": {
-  "books": []
+  "books": [
+    "Beka Lamb by Zee Edgell",
+    "The Sinner's Bossanova by Glen Godfrey",
+    "Those Ridiculous Years – A collection of Short Stories by Felicia Hernandez",
+    "Heroes, Lizards and Passion by Zoila Ellis-Browne"
+  ]
 },
 "Bermuda": {
-  "books": []
+  "books": [
+    "The Drowned Forest by Angela Barry",
+    "The Sailor and the Fox by Brian Burland"
+  ]
 },
 "Bolivia": {
-  "books": []
+  "books": [
+    "Turing's Delirium by Paz Soldàn",
+    "El Escalpelo by Jaime Sáenz",
+    "Juan de la Rosa: Memoirs of the Last Soldier of the Independence Movement by Nataniel Aguirre",
+    "Woven in Moonlight by Isabel Ibañez",
+    "Andean Express by Juan De Recacoechea"
+  ]
 },
 "Brazil": {
   "books": [
-    "Macunaíma",
-    "Gabriela, Clove and Cinnamon",
-    "The Hour of the Star",
-    "The Devil to Pay in the Backlands",
-    "Dom Casmurro"
+    "Macunaíma by Mário de Andrade",
+    "Gabriela, Clove and Cinnamon by Jorge Amado",
+    "The Hour of the Star by Clarice Lispector",
+    "The Devil to Pay in the Backlands by João Guimarães Rosa",
+    "Dom Casmurro by Machado de Assis"
   ]
 },
 "Barbados": {
@@ -260,9 +269,6 @@
   "books": []
 },
 "Republic of the Congo": {
-  "books": []
-},
-"Cook Islands": {
   "books": []
 },
 "Colombia": {
@@ -344,9 +350,6 @@
   ]
 },
 "Eritrea": {
-  "books": []
-},
-"Western Sahara": {
   "books": []
 },
 "Spain": {
@@ -640,7 +643,7 @@
 },
 "Italy": {
   "books": [
-    "Zeno’s Conscience by Italo Svevo",
+    "Zeno's Conscience by Italo Svevo",
     "One, None and a Hundred Thousands by Luigi Pirandello",
     "The Betrothed by Alessandro Manzoni",
     "Little Novels of Sicily by Giovanni Verga",
@@ -652,18 +655,32 @@
     "Bake Face And Other Guava Stories by Opal Palmer Adisa",
     "The Harder They Come” by Michael Thelwell",
     "A Brief History of Seven Killings by Marlon James",
-    "The Pirate’s Daughter by Margaret Cezair-Thompson",
+    "The Pirate's Daughter by Margaret Cezair-Thompson",
     "The Last Warner Woman by Kei Miller"
   ]
 },
 "Jordan": {
-  "books": []
+  "books": [
+    "You as of Today by Tayseer Sboul",
+    "Notebooks of the Bookseller by Jalal Barjas",
+    "Sultanah by Ghalib Halasa",
+    "Pillars of Salt by Fadia Faqir",
+    "An Unnecessary Woman by Rabih Alameddine"
+  ]
 },
 "Japan": {
-  "books": []
+  "books": [
+    "The Tale of Genji by Murasaki Shikibu",
+    "No Longer Human by Osamu Dazai",
+    "Kokoro by Natsume Soseki",
+    "The Silent Cry by Kenzaburo Oe",
+    "Norwegian Wood by Haruki Murakami"
+  ]
 },
 "Kazakhstan": {
-  "books": []
+  "books": [
+    ""
+  ]
 },
 "Kenya": {
   "books": []
