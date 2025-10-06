@@ -1,35 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Read Around</title>
 
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <meta name="theme-color" content="#0f1724">
 
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <div class="background-globe" aria-hidden="true"></div>
 
-  <div class="app">
-    <header class="header">
-      <div class="logo" role="banner">
-        <span class="material-icons logo-icon" aria-hidden="true">public</span>
-        <h1 class="logo-text">Read Around</h1>
+  <div class="app-shell" id="app">
+    <header class="topbar" role="banner">
+      <div class="brand">
+        <span class="material-icons brand-icon" aria-hidden="true">public</span>
+        <div class="brand-text">
+          <h1 class="title">Read Around</h1>
+          <p class="subtitle">Your passport to world literature</p>
+        </div>
       </div>
-      <p class="hero-subtitle">Your passport to world literature</p>
+
+      <div class="actions" role="presentation">
+        <button id="pickBtn" class="btn primary" aria-label="Spin the globe to pick a country" type="button">
+          <span class="material-icons btn-icon" aria-hidden="true">travel_explore</span>
+          <span class="btn-label">Spin the Globe</span>
+        </button>
+      </div>
     </header>
 
-    <main role="main">
-      <button id="pickBtn" class="btn-primary" aria-label="Spin the globe to pick a country">
-        <span class="material-icons btn-icon" aria-hidden="true">travel_explore</span>
-        <span class="btn-text">Spin the Globe</span>
-      </button>
-      <p class="hint">Click to discover books from a random country</p>
-
-      <section id="result" class="result" aria-live="polite"></section>
+    <main class="content" role="main">
+      <section id="result" class="result" aria-live="polite" aria-atomic="true"></section>
     </main>
   </div>
 
