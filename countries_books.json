@@ -67,41 +67,40 @@
 "Antigua and Barbuda": {
   "books": [
     "Lucy by Jamaica Kincaid",
-    "Annie John by Jamaica Kincaid",
     "Unburnable by Marie-Elena John",
     "Go Deep by Rilzy Adams"
  ]
 },
 "Australia": {
   "books": [
-    "Loudstreet",
-    "The Children's Bach",
-    "The book Thief",
-    "The Boat",
-    "The white Earth"
+    "Cloudstreet by Tim Winton",
+    "The Children's Bach by Hellen Garner",
+    "The Book Thief by Markus Zusak",
+    "The White Earth by Andrew McGahan",
+    "Boy Swallows Universe by Trent Dalton"
   ]
 },
 "Austria": {
   "books": [
-    "The Man Without Qualities",
-    "The Piano Teacher",
-    "Letters to a Young Poet",
-    "Venus in Furs",
-    "A Whole Life"
+    "The Man Without Qualities by Robert Musil",
+    "The Piano Teacher by Elfriede Jelinek",
+    "Venus in Furs by Leopold von Sacher-Masoch",
+    "The Royal Game by Stefan Zweig",
+    "The Wall by Marlen Haushofer"
   ]
 },
 "Azerbaijan": {
   "books": [
-    "Ali and Nino",
-    "Days in the Caucasus",
-    "The Book of Dede Korkut",
-    "The Adventures of the Vizier of the Khan of Lankaran"
+    "Ali and Nino by Kurban Said",
+    "Days in the Caucasus by Banine",
+    "The Orphan Sky by Ella Leya",
+    "Stone Dreams: A Novel by Akram Aylisli"
   ]
 },
 "Burundi": {
   "books": [
-    "Weep Not, Refugee",
-    "Baho!"
+    "Weep Not, Refugee by Marie -Therese Toyi",
+    "Baho! by Roland Rugero"
   ]
 },
 "Belgium": {
@@ -216,17 +215,17 @@
 },
 "Barbados": {
   "books": [
-    "The Arrivants",
-    "In The Castle Of My Skin",
-    "Redemption in Indigo",
-    "The Polished Hoe"]
+    "The Arrivants by Kamau Brathwaite",
+    "In The Castle of My Skin by George Lamming",
+    "Redemption in Indigo by Karen Lord",
+    "The Polished Hoe by Austin Clarke"]
 },
 "Brunei": {
   "books": [
     "I Am Not Your Eve by Devika Ponnambalam",
     "The Fisherman King by Kathrina Mohd Daud",
     "Written in Black by K H Lim",
-    "The Witch Doctor's Daughter"
+    "The Witch Doctor's Daughter by Kathrina Mohd Daud"
   ]
 },
 "Bhutan": {
@@ -245,19 +244,47 @@
   ]
 },
 "Central African Republic": {
-  "books": []
+  "books": [
+    "Balénguindi by Benoît Kongbo",
+    "Co-wives, Co-widows by Adrienne Yabouza",
+    "Princess Mandapu by Makombo Bamboté"
+  ]
 },
 "Canada": {
-  "books": []
+  "books": [
+    "Alias Graceby Margaret Atwood, Canada",
+    "The Diviners by Margaret Laurence",
+    "Cabbagetown by Hugh Garner",
+    "Still Life by Louise Penny",
+    "Les Belles-Soeurs by Michel Tremblay"
+  ]
 },
 "Switzerland": {
-  "books": []
+  "books": [
+    "The Swiss Family by Johan David Wyss",
+    "The Tanner Brothers by Robert Walser",
+    "Heidi by Johanna Spyri",
+    "The Truth About the Harry Quebert Affair by Joel Dicker",
+    "Stiller by Max Frisch"
+  ]
 },
 "Chile": {
-  "books": []
+  "books": [
+    "The Savage Detectives by Roberto Bolaño",
+    "The House of the Spirits by Isabel Allende",
+    "My Tender Matador by Pedro Lemebel",
+    "I Confess That I Have Lived by Pablo Neruda",
+    "The Obscene Bird of Night by José Donoso"
+  ]
 },
 "China": {
-  "books": []
+  "books": [
+    "Dream of the Red Chamber by Cao Xueqin",
+    "Romance of the Three Kingdoms by Luo Guanzhong",
+    "Water Margin by Shi Nai'an",
+    "Wild Swans Three Daughters of China by Jung Chang",
+    "To Live by Yu Hua"
+  ]
 },
 "Côte d'Ivoire": {
   "books": []
@@ -679,7 +706,10 @@
 },
 "Kazakhstan": {
   "books": [
-    ""
+    "The Dead Wander in the Desert by Rollan Seisenbayev",
+    "The Silent Steppe by Mukhamet Shayakhmetov",
+    "The Path of Abai by Mukhtar Auezov",
+    "Ballad of Forgotten Years by Abish Kekilbayev"
   ]
 },
 "Kenya": {
@@ -744,17 +774,15 @@
 },
 "Macao": {
   "books": []
-},
-"Saint Martin (French part)": {
-  "books": []
+
 },
 "Morocco": {
   "books": [
-    "The Sacred Night",
-    "Le Passé Simple",
-    "The Other Americans",
-    "For Bread Alone",
-    "The Moor’s Account"
+    "The Sacred Night by Tahar Ben Jelloun",
+    "The Simple Past by Driss Chraïbi",
+    "The Other Americans by laila Lalami",
+    "For Bread Alone by Mohammed Choukri",
+    "Le Soleil des Obscurs by Abdelhak Serhane"
   ]
 },
 "Monaco": {
@@ -770,9 +798,6 @@
   "books": []
 },
 "Mexico": {
-  "books": []
-},
-"Marshall Islands": {
   "books": []
 },
 "North Macedonia": {
@@ -840,11 +865,11 @@
 },
 "Nepal": {
   "books": [
-    "Pagal Basti",
-    "Summer Love",
-    "Palpasa Café",
-    "Karnali Blues",
-    "Seto Dharti"
+    "Pagal Basti by Saru Bhakta",
+    "Summer Love by Subin Bhattarai",
+    "Palpasa Café by Narayan Wagle",
+    "Karnali Blues Buddhi Sagar",
+    "Seto Dharti by Amar Neupane"
   ]
 },
 "Nauru": {
@@ -953,10 +978,6 @@
     "Unclean Blood by Bora Stancović",
     "Dervish and Death by Meša Selimović",
     "Premeditated Murder by Slobodan Selenić"
-
-
-
-
   ]
 },
 "South Sudan": {
@@ -1072,9 +1093,6 @@
 "Uzbekistan": {
   "books": []
 },
-"Holy See (Vatican City State)": {
-  "books": []
-},
 "Saint Vincent and the Grenadines": {
   "books": []
 },
@@ -1103,6 +1121,9 @@
   "books": []
 }
 }
+
+
+
 
 
 
