@@ -1091,13 +1091,22 @@
   "books": []
 },
 "Uzbekistan": {
-  "books": []
+  "books": [
+    "Of Strangers And Bees by Hamid Ismailov",
+    "Golden Star by Abdullah Aripov"
+  ]
 },
 "Saint Vincent and the Grenadines": {
   "books": []
 },
 "Venezuela": {
-  "books": []
+  "books": [
+    "Doña Bárbara by Rómulo Gallegos",
+    "La Visita En El Tiempo by Arturo Uslar Pietri",
+    "Memorias De Mama Blanca by Teresa de la Parra",
+    "Crimes by Alberto Barrera Tyszka",
+    "Cuando Quiero Llorar No Lloro by Miguel Otero Silva"
+  ]
 },
 "Vietnam": {
   "books": [
