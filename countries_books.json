@@ -1100,25 +1100,57 @@
   "books": []
 },
 "Vietnam": {
-  "books": []
-},
-"Vanuatu": {
-  "books": []
+  "books": [
+    "The Zenith by Dương Thu Hương",
+    "The Sorrow of War by Bảo Ninh",
+    "The Crystal Messenger by Phạm Thị Hoài",
+    "The Sympathizer by Viet Thanh Nguyen",
+    "The Tale of Kieu by Nguyen Du"
+  ]
 },
 "Samoa": {
-  "books": []
+  "books": [
+    "Sons for the Return Home by Albert Wendt",
+    "Where We Once Belonged by Sia Figiel",
+    "I am Daniel Tahi by Lani Wendt Young",
+    "Lagaga: A short history of Western Samoa by Malama Meleisea"
+  ]
 },
 "Yemen": {
-  "books": []
+  "books": [
+    "The Hostage by Zayd Mutee Dammaj",
+    "What Have You Left Behind? by Bushra Al-Maqtari",
+    "A Land Without Jasmine by Wajdi al-Ahdal",
+    "Sana'a: An Open City by Mohammad Abdul-Wali",
+    "Black Taste, Black Odour by Ali al-Muqri"
+  ]
 },
 "South Africa": {
-  "books": []
+  "books": [
+    "Mother to Mother by Sindiwe Magona",
+    "The Quiet Violence of Dreams by K. Sello Duiker",
+    "The Story of an African Farm by Olive Schreiner",
+    "Ways of Dying by Zakes Mda",
+    "Mating Birds by Lewis Nkosi"
+  ]
 },
 "Zambia": {
-  "books": []
+  "books": [
+    "The Old Drift by Namwali Serpell",
+    "The Mourning Bird by Mubanga Kalimamukwento",
+    "Patchwork by Ellen Banda-Aaku",
+    "A Cowrie of Hope by Binwell Sinyangwe",
+    "Voices of the Silen by Ethel M. Mutale"
+  ]
 },
 "Zimbabwe": {
-  "books": []
+  "books": [
+   "Waiting for the Rain by Charles Mungoshi",
+   "The House of Hunger by Dambudzo Marechera",
+   "This Mournable Body by Tsitsi Dangarembga",
+   "House of Stone by Novuyo Rosa Tshuma",
+   "The Stone Virgins (2002), by Yvonne Vera"
+  ]
 }
 }
 
