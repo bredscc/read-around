@@ -1040,43 +1040,97 @@
   "books": []
 },
 "Tajikistan": {
-  "books": []
-},
-"Tokelau": {
-  "books": []
+  "books": [
+    "Slaves by Sadriddin Ayni",
+    "Shodi by Jalol Ikromi",
+    "The Crystal Belt: A Book of Wonders and Visions by Temur Zulfikarov "
+  ]
+
 },
 "Turkmenistan": {
-  "books": []
+  "books": [
+    "The Decisive Step by Berdi Kerbabayev",
+    "The Tale of Aypi by Ak Welsapar"
+  ]
 },
 "Timor-Leste": {
-  "books": []
+  "books": [
+    "The Crossing: A Story of East Timor by Luís Cardoso",
+    "Resistance: A Childhood Fighting for East Timor by Naldo Rei"
+  ]
 },
 "Tonga": {
-  "books": []
+  "books": [
+    "A Providence Of War by Joshua Taumoefolau",
+    "Island Girl to Airplane Pilot by Silva McLeod"
+  ]
 },
 "Trinidad and Tobago": {
-  "books": []
+  "books": [
+    "When We Were Birds by Ayanna Lloyd Banwo",
+    "The Bread the Devil Knead by Lisa Allen-Agostini",
+    "A House for Mr Biswas by V.S. Naipaul",
+    "The Mermaid of Black Conch by Monique Roffey",
+    "The Dragon Can't Dance by Earl Lovelace"
+  ]
 },
 "Tunisia": {
-  "books": []
+  "books": [
+    "The Italian by Shukri Mabkhout",
+    "The Ardent Swarm by Yamen Manai",
+    "A Tunisian Tale by Hassouna Mosbahi",
+    "Lion Mountain by Mustapha Tlili",
+    "Longing for the Woman Next Door by Habib Selmi"
+  ]
 },
 "Türkiye": {
-  "books": []
+  "books": [
+    "Madonna in a Fur Coat by Sabahattin Ali", 
+    "The Time Regulation Institute by Ahmet Hamdi Tanpınar",
+    "Dear Shameless Death by Latife Tekin",
+    "Istanbul Istanbul by Burhan Sönmez",
+    "Heba by Hasan Ali Toptaş"
+  ]
 },
 "Tuvalu": {
-  "books": []
+  "books": [
+    "Tuvalu for the Almighty by Afaese Manoa"
+  ]
 },
 "Taiwan": {
-  "books": []
+  "books": [
+    "Notes Of A Desolate Man by Chu T'ien-wen",
+    "The Butcher's Wife And Other Stories by Li Ang",
+    "The Man With The Compound Eyes by Wu Ming-yi",
+    "Orphan Of Asia by Zhuoliu Wu",
+    "The Taste of Apples by Huang Chun-ming"
+  ]
 },
 "Tanzania": {
-  "books": []
+  "books": [
+    "By the Sea by Abdulrazak Gurnah",
+    "Mr. Myombekere and His Wife Bugonoka by Aniceti Kitereza",
+    "Dying in the Sun by Peter Palangyo",
+    "The Gathering Storm by Hamza Sokko",
+    "Rosa Mistika by Euphrase Kezilahabi"
+  ]
 },
 "Uganda": {
-  "books": []
+  "books": [
+    "Tropical Fish by Doreen Baingana",
+    "Kintu by Jennifer Nansubuga Makumbi",
+    "Abyssinian Chronicles by Moses Isegawa",
+    "Waiting by Goretti Kyomuhendo"
+  ]
 },
 "Ukraine": {
-  "books": []
+  "books": [
+    "On Sunday Morning She Gathered Herbs by Olha Kobylianska",
+    "The Orphanage by Serhiy Zhadan",
+    "Fieldwork in Ukrainian Sex by Oksana Zabuzhko",
+    "Grey Bees by Andrey Kurkov",
+    "The Moscoviad by Yurii Andrukhovych"
+  ]
 },
 "Uruguay": {
   "books": [
@@ -1088,7 +1142,13 @@
   ]
 },
 "United States": {
-  "books": []
+  "books": [
+    "A Sport and a Pastime by James Salter",
+    "Patience And Sarah by Isabel Miller",
+    "Sense and Sensibility by Jane Austen",
+    "The Princess Bride by William Goldman"
+
+  ]
 },
 "Uzbekistan": {
   "books": [
@@ -1097,7 +1157,11 @@
   ]
 },
 "Saint Vincent and the Grenadines": {
-  "books": []
+  "books": [
+    "Cassie P Caribbean PI by Cecil Browne",
+    "The Angel Horn by Shake Keane"
+
+  ]
 },
 "Venezuela": {
   "books": [
