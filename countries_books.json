@@ -287,16 +287,36 @@
   ]
 },
 "Côte d'Ivoire": {
-  "books": []
+  "books": [
+   "The Suns of Independence by Ahmadou Kourouma",
+   "Standing Heavy by GauZ'",
+   "Allah Is Not Obliged by Ahmadou Kourouma"
+
+  ]
 },
 "Cameroon": {
-  "books": []
+  "books": [
+    "Une Vie de Boy by Ferdinand Oyono",
+    "Mission to Kala by Mongo Beti",
+    "Behold the Dreamers by Imbolo Mbue",
+    "Les Impatientes by Djaïli Amadou Amal"
+
+  ]
 },
 "Democratic Republic of the Congo": {
-  "books": []
+  "books": [
+    "Life and a Half by Sony Labou Tansi",
+    "Before the Birth of the Moon by V. Y. Mudimbe",
+   "Congo Inc. : Le testament de Bismarck by In Koli Jean Bofane"
+  ]
 },
 "Republic of the Congo": {
-  "books": []
+  "books": [
+    "Broken Glass by Alain Mabanckou",
+    "Johnny Mad Dog by  Emmanuel Dongala",
+    "Ngando by Paul Lomami-Tshibamba",
+    "Tram 83 by Fiston Mwanza Mujila"
+  ]
 },
 "Colombia": {
   "books": [
@@ -308,13 +328,27 @@
   ]
 },
 "Comoros": {
-  "books": []
+  "books": [
+    "Girl Called Eel by Ali Zamir",
+    "Hamouro by Salim Hatubou"
+  ]
 },
 "Cabo Verde": {
-  "books": []
+  "books": [
+    "Chiquinho by Baltasar Lopes da Silva",
+    "The Last Will & Testament of Senhor da Silva Araújo by Germano Almeida",
+    "Nina by Orlanda Amarílis",
+    "The Victims Of The East Wind by Manuel Lopes"
+  ]
 },
 "Costa Rica": {
-  "books": []
+  "books": [
+    "Mamita Yunai by Carlos Luis Fallas",
+    "Bananas and Men by Carmen Lyra",
+    "Cocorí by Joaquín Gutiérrez",
+    "Los Elementos Terrestres by Eunice Odio"
+    
+  ]
 },
 "Cuba": {
   "books": []
@@ -713,13 +747,26 @@
   ]
 },
 "Kenya": {
-  "books": []
+  "books": [
+    "The Promised Land by Grace Ogot",
+    "Petals of Blood by Ngũgĩ wa Thiong'o",
+    "The River and the Source by Margaret Ogola",
+    "Blossoms of the Savannah by Henry Ole Kulet",
+    "Dust by Yvonne Adhiambo Owuor"
+  ]
 },
 "Kyrgyzstan": {
-  "books": []
+  "books": [
+    "Jamila by Chinghiz Aitmatov",
+    "The Long Road by Mukay Elebay",
+    "Before the Dawn by Aaly Tokombaev"
+  ]
 },
 "Cambodia": {
-  "books": []
+  "books": [
+    "When Broken Glass Floats by Chanrithy Him"
+    
+  ]
 },
 "Kiribati": {
   "books": []
@@ -752,7 +799,9 @@
     "These Are The Borders Of My Kingdom"]
 },
 "Saint Lucia": {
-  "books": []
+  "books": [
+    "Nor Any Country by Garth St. Omer"
+  ]
 },
 "Liechtenstein": {
   "books": []
@@ -1022,22 +1071,54 @@
   "books": []
 },
 "Eswatini": {
-  "books": []
+  "books": [
+    "The Amaryllis by Lucy Dlamini",
+    "Sandla Semtsetfo by "
+  ]
 },
 "Seychelles": {
-  "books": []
+  "books": [
+    "Coco sec: Récit by Antoine Abel",
+    "Echoes from the Oasis by A. R. Tirant",
+    "Beyond the Horizon by Robert Grandcourt",
+    "Eva by June Vel",
+    "Black Night of Quiloa by Hazel De Silva"
+  ]
 },
 "Syrian Arab Republic": {
-  "books": []
+  "books": [
+    "Death Is Hard Work by Khaled Khalifa",
+    "The Shell: Memoirs of a Hidden Observer by Mustafa Khalifa",
+    "Sabriya: Damascus Bitter Sweet by Ulfat Idilbi",
+    "The Silence and the Roar by Nihad Sirees",
+    "Cinnamon by Samar Yazbek"
+
+  ]
 },
 "Chad": {
-  "books": []
+  "books": [
+    "Told by Starlight in Chad by Joseph Brahim",
+    "Djibril ou Les Ombres Portées by Mahamat-Saleh Haroun",
+    "Il n'y a Pas D'arc-en-Ciel au Paradis by Noël Nétonon Ndjékéry"
+
+  ]
 },
 "Togo": {
-  "books": []
+  "books": [
+    "Dirty Feet by Edem Awumey",
+    "An African in Greenland by Tété-Michel Kpomassie",
+    "Descent into Night by Edem Awumey",
+    "The Ceremony Factory by Kossi Efoui"
+  ]
 },
 "Thailand": {
-  "books": []
+  "books": [
+    "Four Reigns by Kukrit Pramoj",
+    "The Judgment by Chart Korbjitti",
+    "A Child of the Northeast by Kampoon Boontawee",
+    "The Happiness of Kati by Jane Vejjajiva",
+    "Bangkok Wakes to Rain by Pitchaya Sudbanthad"
+  ]
 },
 "Tajikistan": {
   "books": [
